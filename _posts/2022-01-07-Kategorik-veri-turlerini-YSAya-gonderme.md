@@ -28,5 +28,5 @@ Açıklamalarım ve alıntılar için kaynak: <https://machinelearningmastery.co
  
 Ordinal ve nominal veriler (ve diğerleri) konusunda daha fazla okuma yapmak isteyen olursa, konunun ismi: "[Levels of measurement](https://www.google.com/search?client=firefox-b-d&q=Levels+of+measurement)". Aşağıda da güzel bir sınıflandırma var. Görseli aldığım adres: <https://www.advanceinnovationgroup.com/blog/data-types>
 
-![Veri Türleri]({{ site.baseurl }}/images/2022-01-05-kategorik-veriler.png)
+![Veri Türleri]({{ site.baseurl }}/images/2022-01-07-kategorik-veriler.png)
 
