@@ -1,0 +1,91 @@
+# The layout text of site
+
+# ----- Commons label -----
+
+layout:
+  post: Yazı
+  category: Kategori
+  tag: Etiket
+
+# The tabs of sidebar
+tabs:
+  # format: <filename_without_extension>: <value>
+  home: AnaSayfa
+  categories: Kategoriler
+  tags: Etiketler
+  archives: Yazı Arşivi
+  about: Hakkında
+
+# the text displayed in the search bar & search results
+search:
+  hint: arama
+  cancel: İptal
+  no_results: Sonuç bulumamadı.
+
+panel:
+  lastmod: Son güncellemeler
+  trending_tags: Popüler etiketler
+  toc: İçerik
+
+#  The liquid date format › http://strftime.net/
+date_format:
+  tooltip: '%a, %b %e, %Y, %l:%M %p %z'
+  post:
+    long: '%b %e, %Y'
+    short: '%b %e'
+    archive_month: '%b'
+
+copyright:
+  # Shown at the bottom of the post
+  license:
+    template: Bu yazının lisansı :LICENSE_NAME olarak ayarlanmıştır.
+    name: CC BY 4.0
+    link: https://creativecommons.org/licenses/by/4.0/
+
+  # Displayed in the footer
+  brief: Some rights reserved.
+  verbose: >-
+    Except where otherwise noted, the blog posts on this site are licensed
+    under the Creative Commons Attribution 4.0 International (CC BY 4.0) License by the author.
+
+meta: Powered by :PLATFORM with :THEME theme.
+
+not_found:
+  statment: Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
+  hint_template: :HEAD_BAK to try finding it again, or search for it on the :ARCHIVES_PAGE.
+  head_back: Head back Home
+  archives_page: Archives page
+
+# ----- Posts related labels -----
+
+post:
+  written_by: Yazan,
+  posted: Yazım tarihi,
+  updated: Güncelleme tarihi,
+  timeago:
+    day: gün önce
+    hour: saat önce
+    minute: dakika önce
+    just_now: şimdi
+  words: sözcük
+  pageview_measure: görüntüleme
+  read_time:
+    unit: dakika
+    prompt: okuma
+  relate_posts: Benzer yazılar
+  share: Paylaş
+  button:
+    next: Sonraki
+    previous: Öncekş
+    copy_code:
+      succeed: Kopyalandı!
+    share_link:
+      title: Bağlantıyı kopyala
+      succeed: Bağlantı kopyalandı!
+  # pinned prompt of posts list on homepage
+  pin_prompt: Sabitlendi
+
+# categories page
+categories:
+  category_measure: kategori
+  post_measure: yazı
