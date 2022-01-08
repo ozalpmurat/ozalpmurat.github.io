@@ -12,8 +12,7 @@ katex: true  # if you're using math
 
 Tasarımla uğraşmayayım, içerik girmek kolay olsun, ticari bir yer olmasın, falan filan derken burayı deniyorum.
 
-Baz aldığım kaynaklar:
-* <https://howchoo.com/git/how-to-blog-in-markdown-using-github-and-jekyll-now>
-* <https://www.loginradius.com/blog/async/setup-blog-in-minutes-with-jekyll/>
+Chirpy template'i fork ederek başladığım için, baz aldığım kaynak şöyle:
+<https://chirpy.cotes.page/posts/getting-started/>
 
 Markdown yazım biçimi için: <https://www.markdownguide.org/basic-syntax>
