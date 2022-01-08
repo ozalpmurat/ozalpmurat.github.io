@@ -12,7 +12,7 @@ bundle exec jekyll serve
 ```
 # Github Pages'e yükleme
 Önce düzenlemeleri yap, sonra commit, sonra push:
-```
+```bash
 git add .
 git commint -m "açıklama..."
 git push
