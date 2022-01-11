@@ -27,4 +27,5 @@ git push
 Github içindeki ilgili repo'daki `_posts` klasörü altında özel formatta tarih ile başlayan dosyayı doğrudan editleyebilirsin, yeni dosya ekleyebilirsin.
 
 # Editör ile güncelleme.
-Markdown ile uğraşmak istemiyorsan, online-offline bir sürü editör varmış, bunlar kullanılabilir. Örneğinbu postu editlediğim <prose.io> var. Ana sayfasında github'dan erişim istiyor. Yetki verilince doğrudan repolara göz atıp psot düzenleme yapılabiliyor. Arayüzü de yine markdown biçiminde ama birkaç tane de toolbox içinde düğme var. Preview özelliği de var.
+Markdown ile uğraşmak istemiyorsan, online-offline bir sürü editör varmış, bunlar kullanılabilir. Örneğinbu postu editlediğim <prose.io> var. Ana sayfasında github'dan erişim istiyor. Yetki verilince doğrudan repolara göz atıp psot düzenleme yapılabiliyor. Arayüzü de yine markdown biçiminde ama birkaç tane de toolbox içinde düğme var. Preview özelliği de var. Aşağıda bu yazıyı yazarkenki kısmın ekran görüntüsü var:
+![prose.io yazım ekranı]({{site.baseurl}}/images/2022-01-11-prose.io.png)
