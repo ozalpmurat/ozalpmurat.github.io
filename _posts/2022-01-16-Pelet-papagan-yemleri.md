@@ -1,42 +1,49 @@
 ---
 layout: post
-title: Büyük papağanlar için pellet yemler
+title: Büyük papağanlar için topak (pellet/pelet) yemler
 categories:
   - Hayvanlar
-tags: pellet papağan
+tags: pelet papağan
 published: true
 ---
-**NOT-1**: Büyük papağanlar: Jako (african grey), Amazon, Kakadu, Macaw, vb.
+
+![](/images/2022-01-16-featured.jpg)
+_Görsel kaynağı: <https://www.piqsels.com/en/public-domain-photo-zttdv>_
+**NOT-1**: Büyük papağanlar: Jako (african grey), Amazon, Kakadu, Macaw, vb. Bizimkisi 8 yaşında Kongo türünde dişi Jako. 13 Ağustos'ta bize geldi, daha 6 aydır bizde. Öncesinde "sultan papağanı" haricinde tecrübem yok.
 
 **NOT-2:** Kuşlarla arası iyi olan bir veterinerden daha sağlıklı bilgi edinebilirsiniz. Yazılarımdan dolayı sorumluluk kabul etmem. Sadece kendi tecrübelerimi paylaştım.
 
-**NOT-3:** Pellet yem yerine "extrude yem" ifadesi de kullanılmaktadır. Türkçe bir sözcük bulamadım. İkisi de İngilizce :(
+**NOT-3:** Topak yem yerine, yaygın olarak "pellet/pelet" ve "extrude yem" ifadeleri kullanılmaktadır. Sözcüğün orjinali "pellet". İngilizce-Türkçe sözlüklerde karşılığı olarak "pelet" yazılmış. Türkçe ifade için [sozluk.gov.tr](http://sozluk.gov.tr)'de "pelet" aradım bulamadım. Yine sözlüklerde "pellet" karşılığı olarak "topak yem" ifadesi kullanılmış. Bu da gayet güzel ama malesef çok oturmamış.
 
 # Neden bu yazı?
-Çünkü yok böyle bir yazı. Ben bulamadım. Zaten pellet yem daha birkaç senedir ülkemizde var. Dolayısıyla kültürü de oturmamış. Yeni yeni yaygınlaşıyor. Birkaç farklı yem denediğim için, benzer durumda olanlara faydası olabileceğini düşünerek yazmak istedim. Yazılarıma katılmayanlar iletişim bilgilerimden ulaşıp ifade edebilirler, hatam varsa düzeltmeye çalışırım.
+Çünkü yok böyle bir yazı. Ben bulamadım. Zaten topak yem daha birkaç senedir ülkemizde var. Dolayısıyla kültürü de oturmamış. Yeni yeni yaygınlaşıyor. Birkaç farklı yem denediğim için, benzer durumda olanlara faydası olabileceğini düşünerek yazmak istedim. Yazılarıma katılmayanlar iletişim bilgilerimden ulaşıp ifade edebilirler, hatam varsa düzeltmeye çalışırım.
 
-# Neden pellet yem?
-Pellet yerine tane yem kullanıldığında, hayvanlar seçici oluyor. Bazılarını yiyip bazılarını yemiyor. Doğada da böyle ama doğada hayvanlar önünde hazır yem bulmadığı için yem araması gerekiyor. Doğada bu kadar seçici olma şansı yok. Diğer taraftan, hayvan keyif aldığı çekirdek gibi yemleri tercih edebiliyor. Bunlar da fazla yağlı olduğundan ve ev hayvanlarında hareketler kısıtlı olduğundan sağlıklı olmayabiliyor.
+# Neden topak yem?
+Topak yerine tane yem kullanıldığında, hayvanlar seçici oluyor. Bazılarını yiyip bazılarını yemiyor. Doğada da böyle ama doğada hayvanlar önünde hazır yem bulmadığı için yem araması gerekiyor. Doğada bu kadar seçici olma şansı yok. Diğer taraftan, hayvan keyif aldığı çekirdek gibi yemleri tercih edebiliyor. Bunlar da fazla yağlı olduğundan ve ev hayvanlarında hareketler kısıtlı olduğundan sağlıklı olmayabiliyor.
 
-Pellet yemde ise bazılarında 40-50 çeşit farklı besin bir arada bulunuyor. Bunlar belirli oranlarda homojen olarak karıştırıldığından, hayvanın ihtiyacını tam karşılayacak içeriğe sahip oluyor. Yem seçme şansı da olmadığından tüm içeriği yemiş oluyor. Genellikle de alıştıktan sonra severek yediklerini düşünüyorum. Pellet yemlere genellikle ihtiyaç olan vitaminler de ekleniyor.
+Topak yemde ise bazılarında 40-50'ye varan sayıda çeşitli besinler bir arada bulunuyor. Bunlar belirli oranlarda homojen olarak karıştırıldığından, hayvanın ihtiyacını tam karşılayacak içeriğe sahip oluyor. Yem seçme şansı da olmadığından tüm içeriği yemiş oluyor. Genellikle de alıştıktan sonra severek yediklerini düşünüyorum. Topak yemlere genellikle ihtiyaç olan vitaminler de ekleniyor.
 
-# Pellet yeme ilave bir şeyler vermek gerekli mi?
-Günlük olarak pelletin yanında takviye olarak mutlaka taze sebze ve meyve verilmesi tavsiye ediliyor.
+# Topak yeme ilave bir şeyler vermek gerekli mi?
+Günlük olarak topak yemin yanında takviye olarak mutlaka taze sebze ve meyve verilmesi tavsiye ediliyor.
 
-Çok sık olmamak kaydıyla, keçi boynuzu gibi kemirmelikleri de sevebilirler. Bizimkine köyden getirdiğim şeker kamışı tohumlarından da veriyorum arada. Dal darı biçiminde olduğundan bir tane bir tane koparıp yemeyi seviyor. İnsanlara ve ele aşılması için de yazdan kuruttuğumuz kavun çekirdeklerini elden veriyoruz. Haftada birkaç tane de fındık veriyorum çiğ ve kabuklu, kendisi kırıp ayıklıyor. Bazen de azıcık ceviz. İnternette benzer örnekleri aratırsanız bulabilirsiniz.
+Çok sık olmamak kaydıyla, keçi boynuzu gibi kemirmelikleri de sevebilirler. Bizimkine köyden getirdiğim şeker kamışı tohumlarından da veriyorum arada. Dal darı biçiminde olduğundan bir tane bir tane koparıp yemeyi seviyor. İnsanlara ve ele aşılması için de yazdan kuruttuğumuz kavun çekirdeklerini elden veriyoruz. Haftada birkaç tane de fındık veriyorum çiğ ve kabuklu, kendisi kırıp ayıklıyor. Bazen de azıcık ceviz.
 
-# Pellet yemin riskleri
+çimlendirmeden de bahsetmezsem olmaz. Buğday, mercimek, vb. tohumlardan çimlendirip verebilirsiniz. Büyük/küçük tüm kuşlara da verilebilir. Tohumların çimlenme aşamasında en faydalı besinlerin ortaya çıktığını söylüyorlar. Hangi tohumların nasıl çimlendirileceği ile ilgili İnternet'te çok bilgi var zaten.
+
+İlave ebsin konusunda, internette benzer örnekleri aratırsanız bulabilirsiniz.
+
+# Topak yemin riskleri
 - İçeriğinden kesin emin olma şansımız yok. Bu nedenle güvenilir yem tercih etmemiz lazım. Ayçiçeği çekirdeği gibi ucuz ve yağlı tohumları ağırlıklı kullanarak fiyatı %70-80 düşürebilirler. Bu nedenle çok ucuza kaçmaya çalışmayın. Ama "pahalısı iyidir" gibi bir algı da olmasın :)
 - Yem daha kolay bozulabilir. Üretim aşamasında içinde nem kaldıysa küflenme görülebilir. Buzdolabında saklanmasını istiyorsa öyle yapın. Mümkünse de çok büyük paketlerde almamaya çalışın. Nemsiz bir yerde oturduğum için 5 kiloluk kabı 6 ayda bitirdim ve sorun yaşamadım, ama yaşanmayacağı anlamına gelmez.
-- Hayvanı pellete alıştırırsanız mutlaka öyle devam edilmelidir. Başkasına sahiplendirilecekse de düzgün pellet yem verme sözü alınmalıdır. Dandik dundik yemle beslemesinler hayvanı.
+- Hayvanı topak yeme alıştırırsanız mutlaka öyle devam edilmelidir. Başkasına sahiplendirilecekse de düzgün topak yem verme sözü alınmalıdır. Dandik dundik yemle beslemesinler hayvanı.
 - Hayvanın en sevdiği yem en iyi yem değildir. Boyunu sevebilir, ayağıyla tutup yemek hoşuna gidebilir. Kokusunu sevebilir. Rengini sevebilir. yemin ona enerji vermesinden memnun olabilir... Seçenekler çoğaltılabilir. Marka seçerken bunu da göz önünde bulundurmak lazım.
 - Yemde tozlanma olunca bir kısmı ziyan oluyor. Tozlanmış yerlerini yemiyor hayvanlar.
 - Hayvan bir yeme alışınca, olur da aynı yemi bulamazsanız, farklı yeme geçme sıkıntısı olabilir. Ufak bir ihtimal ama olur mu olur...
 - Renkli-boyalı yemlerden uzak durmanızı tavsiye ederim.
 
-# Kullandığım pellet yemler
+# Kullandığım topak yemler
 Kuşu ilk aldığımda, önceki sahibi kendi kullandığı üretim yeminden, 5 kiloluk olarak verdi. Sonra hayvanın uzun süren kızgınlık döneminden huylandım ve yemi de değiştirmeyi düşündüm. Bu nedenle iki farklı yem daha aldım. Aşağıdaki görselde kullandığım üç yemin boyutlarını karşılaştırmak için bir arada verdim:
-![3 farklı pellet yem](/images/2022-01-16-pupa-rasyon-petty.jpg)
+![3 farklı topak yem](/images/2022-01-16-pupa-rasyon-petty.jpg)
 *Görseldeki yemlerin markası soldan sağa doğru; Pupa, Rasyon, Petty*
 
 Yukarıda sırasıyla Pupa, Rasyon ve Petty marka yemler görülüyor. Yem kalitesi konusunda sağlıklı yorum yapamayacağım. Daha ilk kez bir büyük papağanım olduğu için ben daha acemiyim. Diğer taraftan, yemlerin içeriği hakkında güvenilir kaynaklardan edindiğim bilgi yok.
@@ -59,7 +66,7 @@ Firma Çorum'da. Web sitesi: <http://pettyfood.com.tr>
 
 Bana en çok bu güven verdi. Bunun birkaç tane sebebi var. Bir tanesi, yemi üreten firma (Delta canlı kuş), aynı zamanda üretici. Ve benim gördüğüm en profesyonel üretici. Bizzat görmedim yerlerini ama İnternet'te oldukça fazla bilgi (video, fotoğraf) paylaşmışlar. Şirket sahibi Tanju Bey yıllardır bu işleri yapan, işini bilen birisi gibi görünüyor (_bu konuda bir insanın bilgisini tartabilecek konumda değilim_). Yemleri üretim sürecini falan detaylı anlatan videoları var. Nasip olursa Tekirdağ tarafına gidersem mutlaka ziyaret etmek istiyorum. Hatta Jako sahiplenmek isteyenler için de tam belgeli ve el besleme satışları olduğunu belirteyim.
 
-Telefonla arayıp problemimi anlattım. Mevcut durumda kullandığım yemi (Petty) tanımadığını ama yemden dolayı sorun (kızışma) olacağını düşünmediğini söyledi Tanju Bey. Yine de ben değiştirmek istediğimi ve onların hangi yemini önerdiğini sorunca Nirvana modelini önerdi. Bir de "eğlencelik" dedikleri yem var. Bunu da pet shop'larda çekirdek yemeye mahkum hayvanlar için yapmışlar. En azından sadece çekirdek yemesinler diye, çok daha ucuz bir pellet yem.
+Telefonla arayıp problemimi anlattım. Mevcut durumda kullandığım yemi (Petty) tanımadığını ama yemden dolayı sorun (kızışma) olacağını düşünmediğini söyledi Tanju Bey. Yine de ben değiştirmek istediğimi ve onların hangi yemini önerdiğini sorunca Nirvana modelini önerdi. Bir de "eğlencelik" dedikleri yem var. Bunu da pet shop'larda çekirdek yemeye mahkum hayvanlar için yapmışlar. En azından sadece çekirdek yemesinler diye, çok daha ucuz bir topak yem.
 
 Sanırım 1-2 sene olmuş yem üretimine başlayalı. Aslında, _kendi hayvanları için ürettikleri yemi satmaya başlayalı_, desem daha doğru olacak galiba.
 
@@ -72,9 +79,9 @@ Bu yemi envai çeşit e-ticaret sitesinde bulabilirsiniz. Kendileri de e-ticaret
 ## Pupa yem
 ![Pupa yem](/images/2022-01-16-pupa.jpg){:height="30%" width="30%"}
 
-İşi yemcilik olan bir firmanın ürünü. En eski ve en profesyonel yem üreticisi bu olabilir. Küçükbaş, büyükbaş, kemirgen, kedi, köpek, kanatlı için yemleri var. Eskişehir'de. 2009 yılında Türkiye'nin ilk pellet formda güvercin yemini üretmişler.
+İşi yemcilik olan bir firmanın ürünü. En eski ve en profesyonel yem üreticisi bu olabilir. Küçükbaş, büyükbaş, kemirgen, kedi, köpek, kanatlı için yemleri var. Eskişehir'de. 2009 yılında Türkiye'nin ilk topak formda güvercin yemini üretmişler.
 
-Rasyon ve Petty'nin aksine bunun farklı ihtiyaçlara göre (üretim yemi gibi) farklı türleri yok. Sadece "Pupa pellet yem" :) Ambalaj olarak da sadece 1 kiloluk paketleri var.
+Rasyon ve Petty'nin aksine bunun farklı ihtiyaçlara göre (üretim yemi gibi) farklı türleri yok. Sadece "Pupa topak yem" :) Ambalaj olarak da sadece 1 kiloluk paketleri var.
 
 Web sitesi: <http://esyem.com.tr>
 
@@ -85,7 +92,7 @@ Kullanmadım ama burada yazmazsam olmaz. Oldukça profesyonel bir ürüne benziy
 
 Tane boyutu ve rengi Pupa yeme benziyor gördüğüm kadarıyla. Kullananlar da memnun görünüyor. %100 sertifikalı organik olduğunu iddia ediyorlar.
 
-Web sitesi: <https://energycubepellet.com> 
+Web sitesi: <https://energycubepelet.com> 
 
 ## Karşılaştırma
 Bizim kuş en çok Pupa'yı sevdi. Üç yemi aynı anda tabağa koydum, önce Pupa'ları yedi. Yem tanesinin boyutunun da etkisi var gibi geldi bana. İkinci sırada Rasyon yemi sevdi. Son olarak Eskiden beri bildiği Petty kaldı. Bu karşılaştırma çok mantıklı değil tabii. Hayvanın yıllardır yediği yemin yanına iki farklı tür koyunca onlar daha kötü bile olsa farklı olduğu için cazip gelmiş te olabilir.
@@ -100,9 +107,4 @@ Fiyat olarak yazının yazıldığı tarihteki ortalama yaklaşık 1kg için fiy
 - Petty (üretim) #116
 - Rasyon Nirvana ₺117
 - Energy Cube ₺122
-
-
-
-
-
 
