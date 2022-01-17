@@ -28,9 +28,9 @@ Günlük olarak topak yemin yanında takviye olarak mutlaka taze sebze ve meyve 
 
 Çok sık olmamak kaydıyla, keçi boynuzu gibi kemirmelikleri de sevebilirler. Bizimkine köyden getirdiğim şeker kamışı tohumlarından da veriyorum arada. Dal darı biçiminde olduğundan bir tane bir tane koparıp yemeyi seviyor. İnsanlara ve ele aşılması için de yazdan kuruttuğumuz kavun çekirdeklerini elden veriyoruz. Haftada birkaç tane de fındık veriyorum çiğ ve kabuklu, kendisi kırıp ayıklıyor. Bazen de azıcık ceviz.
 
-çimlendirmeden de bahsetmezsem olmaz. Buğday, mercimek, vb. tohumlardan çimlendirip verebilirsiniz. Büyük/küçük tüm kuşlara da verilebilir. Tohumların çimlenme aşamasında en faydalı besinlerin ortaya çıktığını söylüyorlar. Hangi tohumların nasıl çimlendirileceği ile ilgili İnternet'te çok bilgi var zaten.
+**Çimlendirme**den de bahsetmezsem olmaz. Buğday, mercimek, vb. tohumlardan çimlendirip verebilirsiniz. Büyük/küçük tüm kuşlara da verilebilir. Tohumların çimlenme aşamasında en faydalı besinlerin ortaya çıktığını söylüyorlar. Hangi tohumların nasıl çimlendirileceği ile ilgili İnternet'te çok bilgi var zaten.
 
-İlave ebsin konusunda, internette benzer örnekleri aratırsanız bulabilirsiniz.
+İlave besin konusunda, internette benzer örnekleri aratırsanız bulabilirsiniz.
 
 # Topak yemin riskleri
 - İçeriğinden kesin emin olma şansımız yok. Bu nedenle güvenilir yem tercih etmemiz lazım. Ayçiçeği çekirdeği gibi ucuz ve yağlı tohumları ağırlıklı kullanarak fiyatı %70-80 düşürebilirler. Bu nedenle çok ucuza kaçmaya çalışmayın. Ama "pahalısı iyidir" gibi bir algı da olmasın :)
