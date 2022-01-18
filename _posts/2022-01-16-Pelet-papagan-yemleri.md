@@ -16,7 +16,7 @@ _Görsel kaynağı: <https://www.piqsels.com/en/public-domain-photo-zttdv>_
 **NOT-3:** Topak yem yerine, yaygın olarak "pellet/pelet" ve "extrude yem" ifadeleri kullanılmaktadır. Sözcüğün orjinali "pellet". İngilizce-Türkçe sözlüklerde karşılığı olarak "pelet" yazılmış. Türkçe ifade için [sozluk.gov.tr](http://sozluk.gov.tr)'de "pelet" aradım bulamadım. Yine sözlüklerde "pellet" karşılığı olarak "topak yem" ifadesi kullanılmış. Bu da gayet güzel ama malesef çok oturmamış.
 
 # Neden bu yazı?
-Çünkü yok böyle bir yazı. Ben bulamadım. Zaten topak yem daha birkaç senedir ülkemizde var. Dolayısıyla kültürü de oturmamış. Yeni yeni yaygınlaşıyor. Birkaç farklı yem denediğim için, benzer durumda olanlara faydası olabileceğini düşünerek yazmak istedim. Yazılarıma katılmayanlar iletişim bilgilerimden ulaşıp ifade edebilirler, hatam varsa düzeltmeye çalışırım.
+Çünkü aradığım gibi bir yazı bulamadım. Zaten topak yem daha birkaç senedir ülkemizde var. Dolayısıyla kültürü de oturmamış. Yeni yeni yaygınlaşıyor. Birkaç farklı yem denediğim için, benzer durumda olanlara faydası olabileceğini düşünerek yazmak istedim. Yazılarıma katılmayanlar iletişim bilgilerimden ulaşıp ifade edebilirler, hatam varsa düzeltmeye çalışırım.
 
 # Neden topak yem?
 Topak yerine tane yem kullanıldığında, hayvanlar seçici oluyor. Bazılarını yiyip bazılarını yemiyor. Doğada da böyle ama doğada hayvanlar önünde hazır yem bulmadığı için yem araması gerekiyor. Doğada bu kadar seçici olma şansı yok. Diğer taraftan, hayvan keyif aldığı çekirdek gibi yemleri tercih edebiliyor. Bunlar da fazla yağlı olduğundan ve ev hayvanlarında hareketler kısıtlı olduğundan sağlıklı olmayabiliyor.
@@ -29,6 +29,8 @@ Günlük olarak topak yemin yanında takviye olarak mutlaka taze sebze ve meyve 
 Çok sık olmamak kaydıyla, keçi boynuzu gibi kemirmelikleri de sevebilirler. Bizimkine köyden getirdiğim şeker kamışı tohumlarından da veriyorum arada. Dal darı biçiminde olduğundan bir tane bir tane koparıp yemeyi seviyor. İnsanlara ve ele aşılması için de yazdan kuruttuğumuz kavun çekirdeklerini elden veriyoruz. Haftada birkaç tane de fındık veriyorum çiğ ve kabuklu, kendisi kırıp ayıklıyor. Bazen de azıcık ceviz.
 
 **Çimlendirme**den de bahsetmezsem olmaz. Buğday, mercimek, vb. tohumlardan çimlendirip verebilirsiniz. Büyük/küçük tüm kuşlara da verilebilir. Tohumların çimlenme aşamasında en faydalı besinlerin ortaya çıktığını söylüyorlar. Hangi tohumların nasıl çimlendirileceği ile ilgili İnternet'te çok bilgi var zaten.
+
+**Karışım** mevzusu da çok güzel. Konu hakkında **Astro ve Ben** Youtube kanalında çok güzel bir video var, tavsiye ederim: <https://www.youtube.com/watch?v=gjFIFGSUgKE>
 
 İlave besin konusunda, internette benzer örnekleri aratırsanız bulabilirsiniz.
 
