@@ -10,7 +10,7 @@ published: true
 _Kayak kulübesi önünde aile selfisi_
 
 # Özet
-- Kişi başı masraf (yaklaşık): ₺600 - ₺700 (Konaklama yapılacaksa bunun en az 3-5 katı fazla olur)
+- Kişi başı masraf (yaklaşık): ₺600 - ₺700 (Konaklama yapılacaksa bunun en az 3-5 katı fazla olur).
 - Çok eğlendik, keyif aldık. İmkan olsa yine yapılabilir.
 - Ağaç yaş iken eğilir. Çocuklar (8 ve 13 yaş) bizden çok daha başarılı oldular. 43 yaşında biraz zor oldu ama oldu.
 - Sisli Vadi tesisi eğitim ve başlangıç seviyesi için güzel.
