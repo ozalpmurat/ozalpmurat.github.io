@@ -6,6 +6,8 @@ categories:
 tags: kayak spor
 published: true
 ---
+![](/images/2022-01-31-aile-selfisi.jpg)
+_Kayak kulübesi önünde aile selfisi_
 
 # Kayak mı? O da nereden çıktı?
 Çocukların paten, kaykay, scooter, bisiklet, vb. çeşitli araçlara merakı var. Ben de desteklemeye çalışıyorum dışarıda yaptıkları etkinlikleri. Mahallemiz kışın kızak için de oldukça elverişli olduğundan kızak kültürümüz de oldu biraz. Kayak konusunda da meraklandı çocuklar ama maliyeti nedeniyle hiç yaklaşamamıştık. Sonra karne hediyesi isteyince biz de bir sene boyunca başka karne hediyesi istememe şartı ile kayak denemek istedik. Gerçekten de maliyetli bir spormuş. Bu yazıda fikir vermesi için bazı maliyetleri ve ipuçlarını paylaşmak istiyorum.
@@ -19,7 +21,7 @@ published: true
 ![](/images/2022-01-31-kartepe_kayak_evi.jpg)
 _Ayşe ve Sare'ye kiralık kayak takımı ayarlanıyor_
 
-# İpuçları
+# İpuçları (kayak sporuna yeni başlayacak olanlara tavsiyeler)
 1. Yeni başlayacaklar için havanın yağışsız olmasını önerdi bize görüştüğüm kişiler. Gayet te mantıklı geldi. Kar yağarken hele rüzgar da varsa çok keyifli olmayabilir eğitim aşaması.
 1. Bizim gibi memur olup ta ilk defa kayak yapacaklar için 1-2 hafta öncesinden ufaktan kondisyon egzersizleri tavsiye ederim. Bu egzersizler nedir bilmiyorum. Ama 43 yaşında ve masa başı çalışan bir insan için kondisyonsuz bir şekilde başlamak biraz yorucu oldu. Ekipmanın kendisi bile ağır geliyor çünkü.
 1. Mümkünse eğitim ile başlanması mantıklı geliyor bana. Tesisler kendisi de hoca ayarlayabiliyor. Ben önce hoca buldum, internetten bakarak falan. Sonra ona malzemeyi nereden bulacağımızı, nasıl giyineceğimizi, tesis/pist bilgilerini falan sordum. Hatta hocanın referansı ile aradığım kiralamacı ondan dolayı %20 indirim yapacağını söyledi (ama gittiğimizde, giriş seviyesi ürünler seçtiğimiz için o kadar indirim yapmak istemedi). Genelde hocalar, kiralamacılar ve tesisler iletişim halindeler sanırım.
@@ -58,8 +60,8 @@ Akşam olmaya doğru saat 17.00 gibi artık pistler kardan buza doğru dönmeye 
 Aldığımız eğitim ve sonrasında yaptığımız çalışmalarla, mavi kolaylıktaki pistlere rahat çıkabileceğimi düşünüyorum. Kar sapanındaki sola çekmeyi de çözsem iyi olur tabii :)
 
 **Sisli vadide beğendiklerim:**
-* Tesis güzel tasarlanmış. Aile için uygun bir yer. Yeme içme, tuvalet, otopark, kar düzleme makinesi, vb. gerçekten para ve emek harcanmış. Ulaşımı da kolay.
-* Kızak pisti ve şambrel pisti çok iyi. Süper hızlı ve keyifli görünüyor.
+* Tesis güzel tasarlanmış. Aile için uygun bir yer. Yeme içme, tuvalet, otopark, kar düzleme makinesi, vb. gerçekten para ve emek harcanmış. Ulaşımı da kolay. Tuvaletler yoğunluğa rağmen gayet temiz.
+* Kızak pisti ve şambrel pisti çok iyi. Süper hızlı ve keyifli görünüyor (kullanmadık).
 * Eğitim için mekanın çok iyi olduğunu söylüyorlar. Başka tesislerin pistlerini görmedim ama bence de oldukça iyiydi. Üşüyünce girip ısınacak kulübe olması çok güzel. Pistin randevu ile çalışması ve kalabalık olmaması çok güzel. Hocaları gün içerisinde bulabilmek ve danışabilmek çok güzel.
 
 **Beğenmediklerim:**
