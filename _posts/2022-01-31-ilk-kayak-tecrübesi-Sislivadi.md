@@ -6,6 +6,7 @@ categories:
 tags: kayak spor
 published: true
 ---
+
 ![](/images/2022-01-31-aile-selfisi.jpg)
 _Kayak kulübesi önünde aile selfisi_
 
@@ -57,6 +58,9 @@ Sonra saat 10'da tesiste olduk ama daha pek açılmamıştı. Ve hava da iyi so�
 _Sare eğitim pistinde kaydıktan sonra kayaklarını çıkarmış, batonları ile beraber kucaklayıp yeniden kaymaya gidiyor_
 
 Eğitimde, 10-15 dakika kadar teorik anlatım var. Sonra kayakların giyilmesi/çıkarılması, kayakla yürüme, temel duruş pozisyonu, nasıl düşüleceği, vb. gibi temel konular ve **en önemli aşama** dedikleri **kar sabanı** hareketine çalışma. Bunun internette bol bol videosu var, bakabilirsiniz. Zaten hocalr da göstermiyor, sözel tarif ediyor. Kayak takımını kendisi hiç giymedi hocalar. Bir çok hareketin temelini kar sabanı oluşturuyor. Daha da önemlisi, yavaşlamak ve durmak için en çok kullanılacak yöntem bu. Bu temel eğitimin son aşaması kar sabanı. Zaten bu hareketin oturması için bir gün yetmez ama en azından gerçek piste çıkabilmek için temel seviyede yapabilmek lazım. Toplamda 1 saate yakın eğitim aldık, sonra bizi serbest bırakıp sonraki gruba geçtiler. Biz kendimiz hareketlere çalıştık. Öğleden sonra saat 2'ye kadar kar sabanı çalıştık artık gerçekten yorulduğumuz için piste çıkmayı talep ettik. Yorulduk çünkü 20-30 metre kadar çok az eğimli eğitim pistinde kayıyorduk, sonra kayakları çıkarıp o takoz gibi botlarla geri yürüyorduk. Botlarla yürümek bir süre sonra çok yoruyor. Hocalar sabanı düzgün yapıp yapamadığımıza bakıp bizi telesiyejle yukarı çıkardılar.
+
+<iframe width="672" height="378" src="https://www.youtube.com/embed/ElO9xeCYn_M" title="sisli Vadi'de kayak eğitimi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+_Kulübenin yanındaki çok az eğimli ve kısa mesafe (~40m) eğitim alanı_
 
 Telesiyej dedim ama bunun gerçek adı o değil sanırım. Çelik halata bağlı 30cm'lik plastik çubuklara poponu dayayıp yukarı çıkma aracı. t-bar da değil. Yukarı gelince de poponun altından sıyırıp kendini atıyorsun düzlüğe. 3 küçük kazamız oldu bununla. Benim ve Sare'nin eldiveni yukarıya çıkınca, tuttuğumuz çelik halata sıkışıp elimizden çıktı. Oysa ki çelik halattan tutulmaması gerektiğini söylemişlerdi ama öyle daha kolay olduğu için dinlememiştik. Ayşe'nin de kıyafetinin lastiği o plastiğin bi yerine sıkışıp yukarıda Ayşe'yi düşürdü. Bayırın yarısında aniden durup başlatılması da bayaa bir sallıyor acemi iken, bir kere de böyle ufak bir tehlike atlattım.
 
