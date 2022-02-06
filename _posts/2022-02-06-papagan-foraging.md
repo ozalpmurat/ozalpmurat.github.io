@@ -12,7 +12,7 @@ Doğada papağanlar vakitlerinin büyük kısmında yem ararlar. Evcil olanlar i
 - Bu oyuncaklar kolayca parçalanacakları için, ucuz yollu bir şeyler yapmayı öğrenmek maddi açıdan fayda sağlayabilir
 - Evde kendiniz yaptığınızda güvendiğiniz malzemeleri kullanırsınız. Kimyasal yapıştırıcı ve boyalar kullanmazsınız. Hatta ağacın türünü bile bilebilirsiniz.
 - Arkadaşınıza el emeği katkı sağlamanın huzurunu yakalarsınız :)
-<iframe width="616" height="346" src="https://www.youtube.com/embed/GQ0-tOWdyMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GQ0-tOWdyMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 _Bu videodaki tahtayı tamamen parçalaması 1 gün sürmedi. Kürdan gibi kıymık kıymık serilmişti aşağıya. Sanırım biraz fazla sıkıştırmışım çekirdekleri :)_
 
 # Gerekli malzemeler
