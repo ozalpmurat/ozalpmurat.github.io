@@ -21,7 +21,7 @@ published: true
 - _En iyi arıtıcı ... olandır._
 	- Doğrusu: "Genel ortak iyi" diye bir şey yok. Beklentiler farklı çünkü.
 - _Çeşme suyu kesinlikle içilmez._
-	- Doprusu: Dandik ve bakımsız arıtıcı kullanmaktansa çeşme suyu daha sağlıklı olabilir.
+	- Doğrusu: Dandik ve bakımsız arıtıcı kullanmaktansa çeşme suyu daha sağlıklı olabilir.
 
 # Neden su arıtırız? Suyun içinde istemediğimiz şeyler nedir?
 - **Mikroplar** (bakteri, virüs, böcük, vb. bilimum organizmalar)
