@@ -19,7 +19,7 @@ bundle exec jekyll serve
 Önce düzenlemeleri yap, sonra commit, sonra push:
 ```bash
 git add .
-git commint -m "açıklama..."
+git commit -m "açıklama..."
 git push
 ```
 
