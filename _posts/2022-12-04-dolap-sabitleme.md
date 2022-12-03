@@ -22,6 +22,8 @@ Piyasada kafama göre ürün bulamayınca, kafama göre malzeme alıp betona (ki
 ![](/images/2022-12-04-00-SonHali.jpg)
 _Bitmiş hali_
 
+<iframe width="420" height="315" src="http://www.youtube.com/embed/hGIiAiYY6hA" frameborder="0" allowfullscreen></iframe>
+
 # Hazır ürünleri neden beğenmedim?
 Piyasada sabitleme konusunda bazı ürünler satılıyor ancak onlara pek güvenemedim. Zaten bu nedenle bu yazıyı yazdım. Hazır ürünlerde gördüğüm bazı sıkıntıları yazmaya çalıştım. En çok gördüğüm, "*L demir*" diye aratırsanız göreceğiniz ürünler var. Ama ben sadece onlar için değil, genel olarak yazmaya çalıştım. 
 - Satılan ürünler genellikle ağır mobilyalar için pek uygun değil gibi geldi bana.
