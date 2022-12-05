@@ -25,7 +25,7 @@ Bu yazıda genel olarak evcil hayvanlar konusundaki araştırmalarımı, tecrüb
 **Hayvan sahiplenmek çocuk gibidir, ego ya da heves için yapılacak bir şey değildir** diyeceğim ama ego ya da heves için çocuk yapanlar bile var, onları ne yapacağız :(
 Çocuğunun olması, çocuğun başarılı olması (_"akademik başarı" tabii ki, insan olması önemli değil_), kendi yapamadıklarını çocuğunun yapması, özgüvenli olması (_boru boru konuşması_) bazı insanlar için her şeyden daha önemli.
 
-Çocukları için narsistçe hesaplar yapan bireyler için, hayvanlar genelde ev eşyası hükmündedir. Tipini beğendiği için aldığı köpekten havladığı için vazgeçer. Ya da yazın tatile giderken hayvanı da götürür ama dönüşte arabada yer olmadığı (_ya da kurtulmak istediği_) için bırakır. Muhabbet kuşu satın alır dükkandan, ısırıyor ya da konuşmuyor diye gidip üstüne fark verip başka kuş ile **değiştirir**.
+Çocukları için narsistçe hesaplar yapan bireyler için, hayvanlar da genelde ev eşyası hükmünde oluyor malesef. Tipini beğendiği için aldığı köpekten, havladığı için vazgeçer. Ya da yazın tatile giderken hayvanı da götürür ama dönüşte arabada yer olmadığı (_ya da kurtulmak istediği_) için bırakır. Muhabbet kuşu satın alır dükkandan, ısırıyor ya da konuşmuyor diye gidip üstüne fark verip başka kuş ile **değiştirir**.
 
 Bir hayvan sahiplendiyseniz, _gerçekten_ önemli bir sebebiniz yoksa ondan ayrılmamalısınız.
 

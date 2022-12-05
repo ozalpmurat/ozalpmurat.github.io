@@ -32,4 +32,4 @@ Markdown ile uğraşmak istemiyorsan, online-offline bir sürü editör varmış
 ![prose.io yazım ekranı](/images/2022-01-08-prose.io.png)
 
 # Github Pages'te desteklenen Jekyll temaları
-Şurada yazmışlar: https://pages.github.com/themes/
+Şurada yazmışlar: <https://pages.github.com/themes/>
