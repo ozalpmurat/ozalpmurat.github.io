@@ -3,7 +3,7 @@ layout: post
 title: Kuş alsam mı? Jako papağanı kolay mı?
 categories:
   - Hayvanlar
-tags: papağan, jako, kuş
+tags: papağan jako kuş
 published: false
 ---
 

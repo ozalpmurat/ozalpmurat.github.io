@@ -3,7 +3,7 @@ layout: post
 title: Evcil hayvan alırken nelere dikkat edilir?
 categories:
   - Hayvanlar
-tags: papağan, jako, kuş
+tags: papağan jako kuş
 published: true
 ---
 
