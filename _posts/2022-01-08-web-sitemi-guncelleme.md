@@ -2,7 +2,7 @@
 layout: post
 title: Github Pages üzerindeki Chirpy template'li Jekyll sitem nasıl güncellenir?
 categories:
-  - Github
+  - Bilişim
 tags: github jekyll
 published: true
 ---
