@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linux'ta Envişion EBYS ile e-imza atma. Kesin çözüm.
+title: Linux'ta Envision EBYS ile e-imza atma. Kesin çözüm.
 categories:
   - Bilişim
 tags: envision, e-imza, linux
