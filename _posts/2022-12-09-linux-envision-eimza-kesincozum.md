@@ -11,9 +11,9 @@ toc: true
 # Neden bu yazı?
 Linux'ta e-imza sorunları ile uğraşmaktan bıktım. Uzun bir süre uğraşmamayı düşünüyorum. Artık kendisi çalışırsa kullanacağım, çalışmazsa da bu çözümü uygulayacağım.
 
-Daha önceki "Linux'ta e-imza" konulu yazılarımı [Bilecik Üniversitesi blog sitemde](http://web.bilecik.edu.tr/murat-ozalp?s=linux+e-imza) okuyabilirsiniz. Yazıların göreceğiniz gibi, yaptıktan bir süre sonra çözümler iptal olmuş.
+Daha önceki "Linux'ta e-imza" konulu yazılarımı [Bilecik Üniversitesi blog sitemde](http://web.bilecik.edu.tr/murat-ozalp?s=linux+e-imza) okuyabilirsiniz. Yazıların girişinde göreceğiniz gibi, yaptıktan bir süre sonra çözümler iptal olmuş.
 
-Bu sefer çoook uzun süre iptal olmayacak bir çözüm paylaşacağım: Sanal makinedeki Windows üzerinden imza atma :( :( :(
+Bu sefer çoook uzun süre iptal olmayacak bir çözüm paylaşacağım: **Sanal makinedeki Windows üzerinden imza atmak** :( :( :(
 
 # Güncel durum
 Pardus'ta imza atabildiğini söyleyen Hasan Abi'den ondaki ilgili paketlerin sürüm bilgisini aldım, aynısını kendi bilgisayarımda (Ubuntu) da denedim, olmadı. Her bileşenin bir önceki sürümlerini teker teker denedim, olmadı. Son olarak Pardus'u denemek istedim. Live USB ile açıp Pardus'ta ilgili bileşenleri yükleyip denedim yine olmadı.
