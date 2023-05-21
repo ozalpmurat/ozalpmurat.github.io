@@ -12,7 +12,12 @@ toc: true
 
 Ben çok faydalandım. Canlı katılım çok olmasa da kayıttan izleyecek arkadaşların da faydalanacağına eminim. O yoğunlukta alabildiğim kadar not almaya çalıştım. Yazamadığım, yetişemediğim, hatalı yazmış olduğum, vb. konular için lütfen kusuruma bakmayın.
 
-Okulun piyasaya iyi hazırlamadığı konusunda eleştiriler ve görüşler geldi. Bu noktada dinlediklerimden kişisel 
+Okulun piyasaya iyi hazırlamadığı konusunda eleştiriler ve görüşler geldi. Bu noktada dinlediklerimden kişisel çıkarımlarım:
+- Üniversitelerin güncel ihtiyaçlara yetişmesi mümkün değil.
+- Okul öğrenmeyi öğretir (Salim Hoca)
+- Eğitimciler olarak, piyasayı daha iyi takip edip kendimizi güncelleyebilirsek güzel olur.
+- Kulüp gibi sosyal etkinlikler artmalı.
+- "Bilenler bilmeyenlere öğretsin" tarzında workshop'lar teşvik edilip olanak tanınabilir.
 
 Doğrudan belirli kişiye yazamadığım ama genel kanı olarak çok dile getirilen birkaç konuyu yazayım:
 - Network önemli. Düzgün çalışırsan bir süre sonra kendi kendine oluşuyor. Ancak bunu daha da iyileştirmek kişinin elinde.
@@ -30,7 +35,7 @@ Soyadları ve konuşulan özel konuları paylaşmadım. Özel istek olursa soyad
 
 Etkinliğin duyuru sayfası için [buraya](https://bilecik.edu.tr/bilgisayar/Icerik/IV__Mezunlar_G%C3%BCn%C3%BC_Etkinli%C4%9Fi_0e30e) tıklayabilirsiniz.
 
-Kapanış oturumunda bölüm için alınan __görüş ve öneriler__ kısmı da güzeldi. Sayfanın en altında görebilirsiniz.
+Kapanış oturumunda bölüm için alınan __görüş ve öneriler__ kısmı da güzeldi. [Sayfanın en altında görebilirsiniz](https://ozalpmurat.github.io/posts/bm-mezunlar-gunu/#b%C3%B6l%C3%BCm-i%C3%A7in-tavsiyeler).
 
 ## Akşemseddin, Ahmet Bilal
 - kariyer.net, linkedin.com, vb iş piyasasını tanı. Teknik sözcükleri incele
@@ -156,7 +161,7 @@ SOLID standardı, temiz kod yazma önemli.
 ## Caner
 - belgem.io üzerinde belge (sertifika) paylaşılabiliyor. sayfasını BKM destekliyormuş. Doğrulanmış sertifika olanağı var.
 
-# Bölüm için tavsiyeler:
+# Bölüm için tavsiyeler
 Cihan Hoca'nın talebi üzerine, bölüme katkı açısından görüş ve önerilerini belirtenler:
 - Mustafa: Mezun derneği gibi bir yapı kurulabilir. Mezunlardan gelecek küçük aylık ödemeler öğrenci bursu olarak değerlendirilebilir. Mezunların, öğrencilere staj ve işyeri bulma gibi avantajları olabilir. Daha da önemlisi mentorluk yapabilirler. Kendi adına bir öğrenciye mentorluk yapabileceğini söyledi. Bu nedenle ayrıca teşekkür ediyorum. (Bu maddeyi Mustafa, kendi oturumunda -*Cihan hoca sormadan önce*- söyledi).
 - Burak: SQL dersi daha bast olmalı. Postgresql ve .NET Core gibi güncel teknolojilere geçmek lazım.
