@@ -97,7 +97,7 @@ Kapanış oturumunda bölüm için alınan __görüş ve öneriler__ kısmı da 
 - IOS marketi, para kazanmak için daha uygun olabilir. Android dünyasında insanlar uygulama içi para ödeme konusunda Apple tarafı kadar istekli değil :)
 - Mobil geliştirici olmanın bir avantajı da çalıştığın şirket haricinde kişisel olarak ta markete uygulama koyabiliyor olmak. Bu sayede ilave gelir elde edilebiliyor.
 
-Yusuf, 1 öğrenciye staj için söz verdi. Belki şkinci öğrenci de olabilirmiş, hocalarımız ile görüşecekler. Bu nedenle ilave bir teşekkür daha ediyorum :)
+Yusuf, 1 öğrenciye staj için söz verdi. Belki ikinci öğrenci de olabilirmiş, hocalarımız ile görüşecekler. Bu nedenle ilave bir teşekkür daha ediyorum :)
 
 ## Mustafa Yılmaz
 
