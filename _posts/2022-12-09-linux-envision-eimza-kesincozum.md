@@ -6,6 +6,7 @@ categories:
 tags: envision e-imza linux
 published: true
 toc: true
+comments: false
 ---
 
 # Neden bu yazı?

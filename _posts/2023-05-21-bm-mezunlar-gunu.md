@@ -6,6 +6,7 @@ categories:
 - Bilişim
 published: true
 toc: true
+comments: true
 ---
 # Giriş
 20-21 Mayıs 2023 tarihlerinde online yapılan [IV. Mezunlar Günü Etkinliği](https://bilecik.edu.tr/bilgisayar/Icerik/IV__Mezunlar_G%C3%BCn%C3%BC_Etkinli%C4%9Fi_0e30e) kapsamında alabildiğim notları paylaşıyorum. Dolu dolu etkinlik oldu. Sağolsunlar, mezunlarımız çok güzel katkı sağladılar. Her birine ayrı ayrı teşekkür ederim. Pırıl pırıl efendi insanlar. Ne bildiğini ve ne bilmediğini bilen, bilmediğine "bilmiyorum" diyebilen mütevazi gençler. 1 yıllık tecrübeli olan bile kendini ne güzel ifade ediyor. Bir kere iş hayatına girdikten sonrasının daha kolay olduğunu söylediler genel olarak. Ben de konuşmalarında bunu dolu dolu hissettim; çünkü özgüvenleri yerinde hepsinin.
