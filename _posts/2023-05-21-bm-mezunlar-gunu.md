@@ -1,13 +1,13 @@
----
 layout: post
 title: Bilgisayar Mühendisliği Mezunlar Günü (online)
 tags: Genel
 categories:
+
 - Bilişim
-published: true
-toc: true
-comments: true
----
+  published: true
+  toc: true
+  comments: true
+
 # Giriş
 
 20-21 Mayıs 2023 tarihlerinde online yapılan [IV. Mezunlar Günü Etkinliği](https://bilecik.edu.tr/bilgisayar/Icerik/IV__Mezunlar_G%C3%BCn%C3%BC_Etkinli%C4%9Fi_0e30e) kapsamında alabildiğim notları paylaşıyorum. Dolu dolu etkinlik oldu. Sağolsunlar, mezunlarımız çok güzel katkı sağladılar. Her birine ayrı ayrı teşekkür ederim. Pırıl pırıl efendi insanlar. Ne bildiğini ve ne bilmediğini bilen, bilmediğine "bilmiyorum" diyebilen mütevazi gençler. 1 yıllık tecrübeli olan bile kendini ne güzel ifade ediyor. Bir kere iş hayatına girdikten sonrasının daha kolay olduğunu söylediler genel olarak. Ben de konuşmalarında bunu dolu dolu hissettim; çünkü özgüvenleri yerinde hepsinin.
@@ -46,7 +46,7 @@ Kapanış oturumunda bölüm için alınan __görüş ve öneriler__ kısmı da 
 - kariyer.net, linkedin.com, vb iş piyasasını tanı. Teknik sözcükleri incele
 - roadmap.sh sitesinde güzel yol haritaları var
 - Bulut işini ihmal etme (AWS, vb.)
-- ChatGPT kullan. Firma ismini vererek [cover letter](https://www.google.com/search?q=cover%20letter%20nedir) yazdır, kodlar için test yazdır, mentorluk yaptır, CV düzenlettir, bug çözdür.
+- ChatGPT kullan. Firma ismini vererek[cover letter](https://www.google.com/search?q=cover%20letter%20nedir) yazdır, kodlar için test yazdır, mentorluk yaptır, CV düzenlettir, bug çözdür.
 - [OOP](https://www.google.com/search?q=oop%20nedir) önemli
 - Öğrenciliğinin avantajlarını kullan. Birçok sistemde öğrencilere ücretsiz (ya da çok avantajlı) imkanlar sunuluyor. Github Pro, DigitalOcean, Azure, Termius, Mailgun, FrontendMasters, vb.
 - **İngilizce** çok önemli
@@ -77,7 +77,7 @@ Kapanış oturumunda bölüm için alınan __görüş ve öneriler__ kısmı da 
 ## Esra
 
 - Şirketi mutlaka tanıyın. Başvuracağınız pozisyonu inceleyin.
-- Önce İK'yı ikna edersiniz. Onlar teknik bilmez. Sosyal olarak ikna etmelisiniz. Sonra teknik mülakat veya [case study](https://www.google.com/search?q=m%C3%BClakat%20case%20study%20%C3%B6rnekler) olur.
+- Önce İK'yı ikna edersiniz. Onlar teknik bilmez. Sosyal olarak ikna etmelisiniz. Sonra teknik mülakat veya[case study](https://www.google.com/search?q=m%C3%BClakat%20case%20study%20%C3%B6rnekler) olur.
 
 ## Canan
 
@@ -105,7 +105,7 @@ Linkedin: [https://www.linkedin.com/in/abapmustafa](https://https://www.linkedin
 
 - Mesai saati dışında özgür olan birey işyerine daha faydalı oluyor. İleride yönetici olacak olan şimdiki öğrenciler için söyledi.
 - Yeni mezun olan birisinin yurtdışında çalışması zor. Tecrübe istiyorlar. Yurtdışında Türk firması bile olsa, "*memleketten yeni mezun insanı getireceğine buradaki tecrübelilerden alsaydın*" gibi bir yaklaşım olabiliyor.
-- LinkedIn'de iş başvursu yapınca [Headhunter](https://www.google.com/search?q=HeadHunter%20ne%20demek) (kafa avcıları)na da iş başvuruları düşüyor. Onlar da bu kişilere iş bulunca prim (1 maaş gibi mesela) alıyorlar, emlakçı gibi. Letonya'daki işi böyle denk gelmiş.
+- LinkedIn'de iş başvurusu yapınca[Headhunter](https://www.google.com/search?q=HeadHunter%20ne%20demek) (kafa avcıları)na da iş başvuruları düşüyor. Onlar da bu kişilere iş bulunca prim (1 maaş gibi mesela) alıyorlar, emlakçı gibi. Letonya'daki işi böyle denk gelmiş.
 - Yurtdışında çalışmak için şirketi bulduktan sonra "**sponsor**/**kontrat**" tercihi yapılması gerekebiliyor. Sponsorluk ev kirasını karşılama gibi farklı işler de gerektiriyor. Kontrat daha kolay. Şirket bunun üzerine bizim için bir kefalet ücreti yatırıyor o ülkeye ve çalışma izni başvurusunu yapıyor.
 - Estonya'da şirket vergileri yok gibi birşey. Estonya'daki şirketin banka hesabından kendi maaşını çekiyorsun. TR'de yaşıyorsan sadece kendi maaşının gelir vergisini veriyorsun.
 
@@ -119,7 +119,7 @@ Linkedin: [https://www.linkedin.com/in/abapmustafa](https://https://www.linkedin
 
 ## Caner
 
-- Backend tarafında çalışıyor. Backend tarafında _özellikle performans gereken konularda_ Node.JS ve Go gündemdeki popüler diller. PHP de halen yaygın kullanılıyor.
+- Backend tarafında çalışıyor. Backend tarafında_özellikle performans gereken konularda_ Node.JS ve Go gündemdeki popüler diller. PHP de halen yaygın kullanılıyor.
 - Veritabanı olarak MS-SQL yerine PostgreSQL ve MongoDB, CV'de daha çok işe yarayabilir.
 - SOLID ve DRY gibi prensipleri incelemekte fayda var.
 - Tasarım desenleri (design patterns) konusuna çalışılmalı. Bazı önemlileri:
@@ -141,13 +141,13 @@ Linkedin: [https://www.linkedin.com/in/abapmustafa](https://https://www.linkedin
   - DevOps'çular en çok Git ve Jenkins tarafında çalışır
   - Docker
   - Linux
-- Test araçları: Unit/integration/EndtoEnd şeklinde 3 tür test vardır. Unit testler kod içi testlerdir. _Fonksiyonda 1 satır değişirse unit test'in çalışmaması lazım_ denir. Fonksiyonlar 1500 satır olmamalı, servisler ve alt fonksiyonlara bölünmeli. Integration test için API üzerinden istek gönderilip cevaba bakılır. E2E (end to end) testte bir araç ile (Selenium gibi) insan gibi test yapılır. Proje kodlarında %20 unit test olur.
+- Test araçları: Unit/integration/EndtoEnd şeklinde 3 tür test vardır. Unit testler kod içi testlerdir._Fonksiyonda 1 satır değişirse unit test'in çalışmaması lazım_ denir. Fonksiyonlar 1500 satır olmamalı, servisler ve alt fonksiyonlara bölünmeli. Integration test için API üzerinden istek gönderilip cevaba bakılır. E2E (end to end) testte bir araç ile (Selenium gibi) insan gibi test yapılır. Proje kodlarında %20 unit test olur.
 - Bulut tarafı ihmal edilmemeli. AWS popüler. "_Web sitesinde yoğunluk oldukça sunucu sayısı dinamik değişsin_" gibi yapılandırma, bulut sayesinde mümkün.
 - Güvenlik konusunda firmalarda genelde ekip var. Bu ekip yazılan kodları API'ları teste sokuyor. Zafiyet veya risk görürse raporluyor. Yazılımcılar genellikle "güvenli yazılım geliştirme" gibi bir eğitim ya da standarda tabi tutulmuyorlar. CV'de yazılımcılar için çok aranan özellikler değil.
 
 ### İş piyasası
 
-- İnanılmaz senior ihtiyacı var. **Referans** sistemi başladı. Arkadaşına referans olduğu için iki farklı işyerinde birinde +1 maaş, diğerinde de tatil ödül almış.
+- İnanılmaz senior ihtiyacı var.**Referans** sistemi başladı. Arkadaşına referans olduğu için iki farklı işyerinde birinde +1 maaş, diğerinde de tatil ödül almış.
 - CV'de kısa süreli işler varsa, sonraki mülakatta açıklama istiyorlar.
 
 ## Ahmet
