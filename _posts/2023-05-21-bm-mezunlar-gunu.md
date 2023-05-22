@@ -89,7 +89,8 @@ Kapanış oturumunda bölüm için alınan __görüş ve öneriler__ kısmı da 
 
 Yusuf, 1 öğrenciye staj için söz verdi. Belki şkinci öğrenci de olabilirmiş, hocalarımız ile görüşecekler. Bu nedenle ilave bir teşekkür daha ediyorum :)
 
-## Mustafa
+## Mustafa Yılmaz
+https://www.linkedin.com/in/abapmustafa
 - Mesai saati dışında özgür olan birey işyerine daha faydalı oluyor. İleride yönetici olacak olan şimdiki öğrenciler için söyledi.
 - Yeni mezun olan birisinin yurtdışında çalışması zor. Tecrübe istiyorlar. Yurtdışında Türk firması bile olsa, "*memleketten yeni mezun insanı getireceğine buradaki tecrübelilerden alsaydın*" gibi bir yaklaşım olabiliyor. 
 - LinkedIn'de iş başvursu yapınca [Headhunter](https://www.google.com/search?q=HeadHunter%20ne%20demek) (kafa avcıları)na da iş başvuruları düşüyor. Onlar da bu kişilere iş bulunca prim (1 maaş gibi mesela) alıyorlar, emlakçı gibi. Letonya'daki işi böyle denk gelmiş.
