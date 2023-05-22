@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bilgisayar Mühendisliği Mezunlar Günü (online)
+title: Bilgisayar Mühendisliği Mezunlar Günü (online.)
 tags: Genel
 categories:
   - Bilişim
