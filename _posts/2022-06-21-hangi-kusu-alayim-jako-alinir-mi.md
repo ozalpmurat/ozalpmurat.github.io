@@ -25,12 +25,11 @@ Papağan dışında hiç kuşum olmadı. Aşağıda yazacağım şeylerin çoğu
 - Çocukların 12-13 yaşından önce evcil hayvan sorumluluğu alması kolay değil, buna dikkat edin.
 - Almak istediğiniz hayvanın zorluklarını önceden Google'da aratmaktan korkmayın. Hatta yapabiliyorsanız, İngilizce arayın, daha çok kaynak bulursunuz.
 - Almayı istediğiniz hayvanı önceden araştırın, sonra pişman olmayın. Hele ki asla değiştirmeyi düşünmeyin. Türü, cinsiyeti, yaşı, rengi, huyu, tek/çift bakılması durumu, evde yalnız kalıp kalamayacağı, gürültü miktarı, toz/pislik miktarı, günlük ve haftalık ona ayırabileceğiniz zaman miktarı, evinizde kafesi koyacak yerin neresi olduğu, vb. birçok soruya önceden cevap vermeniz lazım. Özellikle muhabbet, cennet, sultan gibi yaygın türleri insanlar alıp sonra farklı nedenlerle (_rengi güzel değil, konuşmuyor, gürültü yapıyor, diğer kuşla anlaşamadı, yaramaz, vb._) dükkana gidip değiştiriyorlar. Bir hayvanın yer ve sahip değişikliği bir travmadır.
-
-Örnek: [Jako beslemenin zorlukları](https://letmegooglethat.com/?q=Jako+beslemenin+zorluklar%C4%B1)
+- Örnek araştırma: [Jako beslemenin zorlukları](https://letmegooglethat.com/?q=Jako+beslemenin+zorluklar%C4%B1)
 
 # Evde beslenebilecek kuş türleri
 Kendimce bir özet liste yapmaya çalıştım:
-- Papağanlar (muhabbet kuşu, cennet papağanı, sultan papağanı, jako, macaw, vb.)
+- Papağanlar (muhabbet kuşu, cennet papağanı, sultan papağanı, jako, kakadu, macaw, vb.)
 - Ötücü kuşlar (saka, bülbül, kanarya, vb.)
 - Bahçe veya teras kuşları (güvercin, tavuk, bıldırcın, sülün, vb.)
 - Diğerleri (hint bülbülü, vb.)
@@ -40,19 +39,21 @@ Aslında bana kalsa liste uzun bile oldu. Benim için iki türlü kuş var; papa
 # Papağanların ortak özellikleri
 Yazdığım her madde her kuşta olacak diye bir kural yok; çoğunlukla ortak özellikleri yazmaya çalıştım:
 - Zekidir
-- Kıvrık gagalıdır. Yemlerin kabuklarını ayıklayabilir. Bu nedenle yem öğütme sistemi farklıdır. Düz gagalı kuşlar (kanarya, güvercin, tavuk, vb.) yemi yedikten sonra kum yerler. "Taşlık" ismi verilen organın içinde bu kumlar yemlerle beraber değirmen gibi ezilir. Papağanların yemlerini kabuksuz yediği için kolayca sindirebilirler, kum yemesine gerek yoktur.
+- Kıvrık gagalıdır. Yemlerin kabuklarını ayıklayabilir. Bu nedenle yem öğütme sistemi farklıdır. Düz gagalı kuşlar (kanarya, güvercin, tavuk, vb.) yemi yedikten sonra kum yerler. "Taşlık" ismi verilen organın içinde bu kumlar yemlerle beraber değirmen gibi ezilir. Papağanlar yemlerini kabuksuz yediği için kolayca sindirebilirler, kum yemesine gerek yoktur.
 - Kemirgendir (elektrik kablosu, mobilya, çiçekler, vb. şeyleri güzelce halledebilirler)
 - Gagaları güçlüdür. En küçük papağan bile derinizi rahatlıkla delebilir. Büyükler ise parmağınızı bile kırabilir!
 - İlgi isterler. Günde en az 1 saat.
-- Psikolojik sorunlar yaşayabilirler, strese girebilirler.
+- Duygusaldır. Psikolojik sorunlar yaşayabilirler, strese girebilirler.
 - Gagalarını el gibi kullanabilirler.
 - Uçmayı pek tercih etmezler, tırmanabilecekleri ve yürüyebilecekleri mesafeye uçmak istemezler ama iyi uçuculardır.
 - Diğer evcil kuşlar gibi, hava akımına karşı hassastırlar. Cereyanda kalmamalıdır.
 - Diğer evcil hayvanlar gibi, düzenli ve istikrarlı bir yaşam isterler. Akşam odadaki lamba uzun süre açık durursa ya da yanında çok gürültü varsa (tv olan oda gbi) rahat uyuyamaz ve stres yapabilirler.
-- Aynı anda yumurtadan çıkan iki kardeşin bile karakterleri çok farklı olabilir. Farklı yemleri/oyuncakları sevebilir, asabi/sakin olabilir, korkak/cesur olabilir, meraklı/meraksız olabilir, vb...
+- Kişilikleri vardır. Aynı anda yumurtadan çıkan iki kardeşin bile karakterleri çok farklı olabilir. Farklı yemleri/oyuncakları sevebilir, asabi/sakin olabilir, korkak/cesur olabilir, meraklı/meraksız olabilir, vb...
 - İyi beslenmelidir, hareketsiz kalmamalıdır. Bunlara dikkat edilmezse vitamin eksikliğine bağlı çeşitli rahatsızlıklar veya karaciğer yağlanması gibi sorunlar yaşayabilir.
 - Çoğunlukla daha büyük türler, küçüklere göre daha zekidir. Bakımı da daha zordur.
 - Küçükken insana alışan kuşlar evcilleşebilir, büyümüş olanlar ise onlar kadar evcilleşmez ve çok daha fazla emek ister.
+- Pislik yaparlar. Yemeklerini etrafa sıçratırlar, tüy dökerler. Hatta bazıları toz/kepek döker.
+
 
 # Neden papağan?
 Papağan besleyen herkesin farklı amacı olabilir. Benim papağanları sevmemin sanırım en önemli sebepleri şöyle:
@@ -72,18 +73,19 @@ Küçükten büyüğe doğru yazmaya çalıştım ama çok ta uğraşmadım:
 - **Forpus**. Fiziksel olarak ülkemizde yaygın olan cennet papağanına benzer. Muhabbet ve sevda papağanına göre daha az gürültülüdür. Cennnet papağanı gibi yaramaz ve hareketli değildir, nispeten sakindir.
 - **Cennet/Sevda** (Lovebird). Kuyruksuz ve genelde çok renkli olur. Çok hareketlidirler. Küçükken alınıp evcilleştirilirse şımarık/yılışık tabir edilebilecek kadar evcil olabilirler. Gürültülü olması dezavantaj sayılabilir. Konuşma yetenekleri yok veya yok kadar az sanırım.
 - Keşiş (monk)
-- Sultan papağanı (Cockatiel). Dişilerinde konuşma yeteneği yoktur.
-- Kayık (caique)
-- Konur
-- Senegal
-- Rozella
-- Pakistan (Green parrot)
-- İskender (Alexander)
-- Jako (African Grey)
-- Kakadu (Cockatoo). Galah, Moluccan, Goffin, Sulphur, Triton, Umbrella, vb. alt türleri de vardır. Genellikle beyaz olurlar ama mavi, pembe ve hatta siyah bile olanları vardır.
-- Macaw (Ara). Genelde foto çekimleri için kullanılıyor. Nereden temin ediyorlar, nasıl öyle sakin oluyor bu hayvanlar bilmiyorum. Konuşma yeteneği Jako kadar yoktur ancak görsel şölen sunarlar.
+- **Sultan papağanı (Cockatiel)**. Dişilerinde konuşma yeteneği yoktur.
+- **Kayık (caique)**.
+- **Konur**.
+- **Senegal**.
+- **Rozella**.
+- **Pakistan (Green parrot)**.
+- **İskender (Alexander)**.
+- **Jako (African Grey)**. Konuşma yeteneği en fazla olan türlerden birisi. Bu nedenle melesef yaygın bir şekilde kafesleniyor. Aynı zamanda en zeki ve duygusal olanlarından da birisi de olduğu için, kafeste sıkıcı bir hayat sonunda strese girenler çok oluyor.
+- **Amazon**.
+- **Kakadu (Cockatoo)**. Galah, Moluccan, Goffin, Sulphur, Triton, Umbrella, vb. alt türleri de vardır. Genellikle beyaz olurlar ama mavi, pembe ve hatta siyah bile olanları vardır.
+- **Macaw (Ara)**. Genelde foto çekimleri için kullanılıyor. Nereden temin ediyorlar, nasıl öyle sakin oluyor bu hayvanlar bilmiyorum. Konuşma yeteneği Jako kadar yoktur ancak görsel şölen sunarlar.
 
-Bunlardan en sevdiklerim; Macaw, Kakadu, Jako, Sultan, Senegal şeklinde sayılabilir. 
+Bunlardan en sevdiklerim; Kakadu, Jako, Sultan, Senegal, Forpus, Keşiş, Kayık şeklinde sayılabilir. 
 
 # Kuş nereden edinilir?
 Yaygın olarak beslenen kuşlar genelde evcil hayvan satan dükkanlarda var. Ama bunu pek tercih etmeyiz. Çünkü dükkandan alınan kuşların genelde kötü geçmişleri oluyor. Bu travmalara birkaç örnek vermek gerekirse:
