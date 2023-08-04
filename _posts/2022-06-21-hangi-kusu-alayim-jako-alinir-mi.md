@@ -98,7 +98,7 @@ Yaygın olarak beslenen kuş türleri genelde evcil hayvan satan dükkanlarda va
 - **Hayvan kaçakçılığı riski**. Nesli azalan hayvanların yutdışından kaçak yollarla getirildiğini biliyoruz. Bu tarz bir hayvan sahiplenecekseniz, CITES belgesi mutlaka olmalıdır.
 - **Doğadan yakalanmış olma riski** Lendi doğal ortamından koparılıp, kötü yolculukla getirilerek kafese tıkılmış olmanın sıkıntılarını o hayvan kolay atlatamayacaktır.
 
-![](/images/2022-06-21-SisedeKakadu.jpg)
+![](/images/2022-06-21-SisedeKakadu.png)
 _Kaçak kuşlar böyle naklediliyor ve bir kısmı da yolculuk sırasında ölüyormuş_
 
 Evcil hayvan dükkanlarını zan altında bırakmak istemiyorum. Mutlaka işini düzgün yapanlar (hayvanları çok sevenler) de vardır. Belki dükkan sahibi ile biraz sohbet edip tanımaya çalışabilirsiniz. Kafesteki hayvanların yemlerine bakarsınız, hep çekirdek koyulmuşsa dikkatli olursunuz. Kafeslerin altının pis olup olmadığına dikkat edersinz. Kafeslerin yeterince büyük olup olmadığına, hayvanların sıkışık olup olmadığına bakarsınız. Bu tarz incelemeler dükkan ve hayvana saygı açısından fikir verebilir.
