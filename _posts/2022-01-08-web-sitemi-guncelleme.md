@@ -5,13 +5,48 @@ categories:
   - Bilişim
 tags: github jekyll
 published: true
+toc: true
 ---
+# Git klasörünü indirdikten sonra, yerel bilgisayarda çalıştırmak
+Gerekli bileşenleri indirip kurabilmek içinm, Ubuntu deposundan ön gereklilikleri kuralım:
+```sh
+sudo apt-get install ruby-full build-essential
+```
+
+Ubuntu deposundan jekyll yükleyelim:
+```sh
+sudo apt install ruby-jekyll-watch jekyll
+```
+
+Ruby Bundle bileşenlerini kullanmak için, bunları sistem geneline değil, kendi kullanıcı klasörüme kurmasını istiyorum:
+```sh
+bundle config set --local path 'vendor/bundle'
+```
+
+Projede jekyll kullanılacağını belirtelim. Gereklilikleri anlasın:
+```sh
+bundle add jekyll
+```
+
+Gereklilikleri kuralım:
+```sh
+bundle install
+```
+
+Web sitesini yerelde çalıştır:
+```sh
+bundle exec jekyll serve
+```
+
+
+# Siteyi güncelleme
 Birkaç farklı yöntem var.
 
 # Yerel bilgisayarda güncelleyip GIT ile publish etme
 Kaynak: <https://chirpy.cotes.page/posts/getting-started/>
 
 **Yerelde Çalıştırma**
+Önce kontrol et. Sorun yoksa, publish et.
 ```sh
 bundle exec jekyll serve
 ```
