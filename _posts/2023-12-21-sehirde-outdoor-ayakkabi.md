@@ -38,6 +38,7 @@ Benim toplam 5 çift ayakkabım var. İmkânım olsa teke düşürürdüm ama ma
 Adidas, Nike gibi -_outdoor uzmanlığı olmayan_- spor giyim üreticilerinin outdoor modelleri konusunda çokça şikayet okudum. Hatta mümkünse spor giyim üreticisi değil, "outdoor ayakkabı üreticisi" olması daha da iyi olur tabii :)
 
 Alın size araştırmalık bazı marka isimleri:
+- YDS
 - La Sportiva
 - Meindl
 - Asolo
