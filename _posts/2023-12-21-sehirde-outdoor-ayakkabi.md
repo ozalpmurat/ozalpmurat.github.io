@@ -80,3 +80,8 @@ Gore-tex dışında farklı ürünler de olduğunu söylemiştim. Bu konuda baz�
 
 Waterproof, softshell, water-resist gibi bazı sözcükler var. Bu sözcüklere takılmamak lazım. Arkasındaki teknoloji asıl önemli olan. Mesela Google'a `gore-tex vs ` yazınca, diğer alternatifleri şöyle listeliyor:  
 ![Gore-text vs ...](/images/2023-12-21-goretex_vs.png)
+
+## Yaklaşım ayakkabıları
+Eğer arazi kullanımınız birazcık fazla ise, yaklaşım ayakkabısı (approach shoes) kategorisini inceleyebilirsiniz. İnternette görsellerde ararsanız, örnekleri çıkıyor. Fiyatı biraz yüksek olabilir, dikkat. Bu ayakkabıların amacı, tırmanma bölgesine gidene kadarki süreci tamamlamaktır. Tabanı sağlam ve dayanıklıdır. Önünde koruma için sağlam **çarşak** vardır. Genelde kısa konçlu olurlar. Nedense şekilleri de şehir için daha şık geliyor bana :)
+
+Sağlam bir markadan (yukarıda isimleri verdim) Gore-Tex astarlı, çok ağır ve çok sert olmayan, kaymaz tabanlı bir yaklaşım ayakkabısı alabilenler alsın, yıllarca kullansın.
