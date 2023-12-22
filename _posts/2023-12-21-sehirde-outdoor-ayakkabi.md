@@ -79,4 +79,4 @@ Su geçirmeyen ayakkabıların bazı ucuz modellerinin en önemli tehlikesi, aya
 Gore-tex dışında farklı ürünler de olduğunu söylemiştim. Bu konuda bazı İngilizce kavramlar da var. Su geçirmeyenlerin bir çoğu naylon çizme mantığında oluyor; hiç bir şeyi geçirmiyor.
 
 Waterproof, softshell, water-resist gibi bazı sözcükler var. Bu sözcüklere takılmamak lazım. Arkasındaki teknoloji asıl önemli olan. Mesela Google'a `gore-tex vs ` yazınca, diğer alternatifleri şöyle listeliyor:  
-![Gore-text vs ...](/images/2023.12.21-goretex_vs.png)
+![Gore-text vs ...](/images/2023-12-21-goretex_vs.png)
