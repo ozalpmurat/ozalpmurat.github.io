@@ -20,10 +20,11 @@ timezone: Europe/Istanbul
 
 title: Murat Özalp
 
-tagline: Kişisel Web Sitesi   # it will display as the sub-title
+# it will display as the sub-title
+tagline: Kişisel Web Sitesi
 
-description: >-                        # used by seo meta and the atom feed
-  Lazım olduğunda unutmuş olduğum şeyleri hatırlatacak bir yer lazımdı. Burası olsun istedim.
+# used by seo meta and the atom feed
+description: Web'te aratılınca bulunmasını istediğim şeyler
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://ozalpmurat.github.io'
@@ -100,6 +101,10 @@ paginate: 10
 
 # ------------ The following options are not recommended to be modified ------------------
 
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  
 kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:   # Rouge Options › https://github.com/jneen/rouge#full-options

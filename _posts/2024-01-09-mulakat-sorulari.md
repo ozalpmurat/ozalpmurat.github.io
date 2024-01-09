@@ -1,6 +1,8 @@
 ---
+title: "Örnek mülakat soruları"
+permalink: ornek-mulakat-sorulari
+description: Bilişim alanında iş başvurularında örnek mülakat sorularını çalışarak gitmekte fayda var.
 layout: post
-title: Mülakat Soruları
 categories:
   - Genel
 tags: mülakat
