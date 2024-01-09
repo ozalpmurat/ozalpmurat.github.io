@@ -76,7 +76,7 @@ post:
   share: Paylaş
   button:
     next: Sonraki
-    previous: Öncekş
+    previous: Önceki
     copy_code:
       succeed: Kopyalandı!
     share_link:
