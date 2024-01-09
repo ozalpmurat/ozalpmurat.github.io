@@ -7,12 +7,11 @@ tags: mülakat
 published: true
 toc: true
 ---
-# İş Başvurularında Mülakat Soruları
 Burada tüm soruları tabii ki veremeyeceğim. Balık tutmayı öğretmeye çalışacağım :)
 
 Arama motorunda "......... job interview questions" şeklinde aratırsanız bol miktarda örnek bulabiliyorsunuz. Cümlede boş bırakılan yeri istediğiniz gibi doldurabilirsiniz. Örnek bazı başlıkları ve soruları İnternet'ten araklayıp Translate'e çevirtip aşağıda yazdım.
 
-## Genel örnek sorular
+# Genel örnek sorular
 * Neden bu pozisyona başvurdunuz?
 * Bu pozisyon için en uygun olduğunuzu düşündüğünüz nedenler nelerdir?
 * Geçmişte karşılaştığınız en büyük zorluk nedir ve bunu nasıl ele aldınız?
@@ -23,7 +22,7 @@ Arama motorunda "......... job interview questions" şeklinde aratırsanız bol 
 * Daha önce iş takip sistemi, proje yönetim sistemi tarzında araçlar kullandınız mı?
 * Şirketimizin çalışma alanları hakkında ne biliyorsunuz?
 
-## Sistem yöneticisi (genel) örnek mülakat soruları
+# Sistem yöneticisi (genel) örnek mülakat soruları
 * RAID nedir ve farklı RAID türleri nelerdir?
 * Log yönetimi nasıl yapılır? Syslog ne demektir?
 * DNS nedir ve nasıl çalışır?
@@ -31,7 +30,7 @@ Arama motorunda "......... job interview questions" şeklinde aratırsanız bol 
 * Daha önce betik yazdınız mı?
 * DNS kaydı türleri nelerdir?
 
-## Linux sistem yöneticisi örnek mülakat soruları
+# Linux sistem yöneticisi örnek mülakat soruları
 * LVM (Logical Volume Manager) nedir ve nasıl çalışır?
 * SSH nedir ve nasıl güvenli hale getirilir?
 * Güvenlik duvarı (firewall) konfigürasyonunu açıklayabilir misiniz?
@@ -41,7 +40,7 @@ Arama motorunda "......... job interview questions" şeklinde aratırsanız bol 
 * Linux'ta bir veritabanı nasıl kurulur ve yönetilir?
 * En sevdiğiniz Linux dağıtımı nedir?
 
-## Ağ konusunda örnek mülakat soruları
+# Ağ konusunda örnek mülakat soruları
 * IP adresi nedir ve DHCP'nin rolü nedir?
 * Bir ağ arızasını tespit etmek ve çözmek için hangi adımları takip edersiniz?
 * TCP/IP nedir ve nasıl çalışır?
@@ -55,7 +54,7 @@ Arama motorunda "......... job interview questions" şeklinde aratırsanız bol 
 * Hangi marka ağ cihazlarına aşinasınız?
 * Ağda sorun çözmek için şimdiye kadar ne tür yöntemler, yazılımlar ve cihazlar kullandınız?
 
-## DevOps örnek mülakat soruları
+# DevOps örnek mülakat soruları
 * DevOps hakkında ne biliyorsunuz?
 * DevOps'un çevik metodolojiden farkı nedir?
 * En popüler DevOps araçlarından bazıları hangileridir?
@@ -73,7 +72,7 @@ Arama motorunda "......... job interview questions" şeklinde aratırsanız bol 
 * Deponun git Push aracılığıyla yeni commit'ler aldığı her seferde bir betiğin çalışmasını nasıl sağlayabilirsiniz?
 * Docker nedir ve nasıl çalışır?
 
-## Veri bilimi konusunda örnek mülakat soruları
+# Veri bilimi konusunda örnek mülakat soruları
 * İstatistiksel temel kavramlar hakkında neler biliyorsunuz?
 * Makine öğrenimi algoritmaları hakkında neler biliyorsunuz?
 * Büyük veri analizi hakkında neler biliyorsunuz?
