@@ -3,8 +3,8 @@
 source "https://rubygems.org"
 
 gem "jekyll-theme-chirpy", "~> 5.0", ">= 5.0.2"
-gem 'jekyll-seo-tag'
-gem 'jekyll-sitemap'
+#gem 'jekyll-seo-tag'
+#gem 'jekyll-sitemap'
 
 group :test do
   gem "html-proofer", "~> 3.18"
