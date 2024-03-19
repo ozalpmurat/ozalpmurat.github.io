@@ -102,7 +102,7 @@ paginate: 10
 # ------------ The following options are not recommended to be modified ------------------
 
 plugins:
-  - jekyll-seo-tag
+#  - jekyll-seo-tag
   - jekyll-sitemap
   
 kramdown:
