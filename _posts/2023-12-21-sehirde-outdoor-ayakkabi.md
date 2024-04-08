@@ -30,7 +30,7 @@ Benim toplam 5 çift ayakkabım var. İmkânım olsa teke düşürürdüm ama ma
 # Outdoor ayakkabı özellikleri
 - **Sağlam taban**. Vibram demek "her koşulda en iyi taban" anlamında değildir. Şehirde buz pisti gibi kayan Vibram tabanlar var.
 - **Fiziksel şartlara dayanıklı ayakkabı**. Esneme, şişmiş ayakla kullanma, ıslak durumlarda dayanıklılık, sağlam birleşim yerleri, yırtılmaya dayanıklı malzeme, darbeye karşı koruyucu kısımlar, sağlam ipler ve ip delikleri, vb. devam edebilir liste. Aslında bunların her birisi ayrı yazı konusu.
-- **Nefes alabilirlik**.  XXX
+- **Nefes alabilirlik**.  XXX 
 - **Fiziksel koşullara (kullanım amacına) uygunluk** Kanyon, tırmanma, yaklaşma, hiking, vb. outdoor faaliyetlerin hepri için bambaşka ayakkabı modelleri vardır.
 
 # Kişisel görüşlerim
