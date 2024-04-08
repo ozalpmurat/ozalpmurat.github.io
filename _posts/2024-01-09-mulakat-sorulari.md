@@ -5,8 +5,8 @@ description: Bilişim alanında iş başvurularında örnek mülakat soruların�
 layout: post
 categories:
   - Genel
-tags: mülakat
-published: true
+tags: mulakat
+published: false
 toc: true
 ---
 Burada tüm soruları tabii ki veremeyeceğim. Balık tutmayı öğretmeye çalışacağım :)
