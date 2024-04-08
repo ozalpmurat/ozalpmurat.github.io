@@ -163,6 +163,7 @@ exclude:
   - '*.gem'
   - '*.gemspec'
   - tools
+  - vendor
   - docs
   - README.md
   - LICENSE
