@@ -30,7 +30,7 @@ Benim toplam 5 çift ayakkabım var. İmkânım olsa teke düşürürdüm ama ma
 # Outdoor ayakkabı özellikleri
 - **Sağlam taban**. Vibram demek "her koşulda en iyi taban" anlamında değildir. Şehirde buz pisti gibi kayan Vibram tabanlar var.
 - **Fiziksel şartlara dayanıklı ayakkabı**. Esneme, şişmiş ayakla kullanma, ıslak durumlarda dayanıklılık, sağlam birleşim yerleri, yırtılmaya dayanıklı malzeme, darbeye karşı koruyucu kısımlar, sağlam ipler ve ip delikleri, vb. devam edebilir liste. Aslında bunların her birisi ayrı yazı konusu.
-- **Nefes alabilirlik**.  XXX 
+- **Nefes alabilirlik**.  Yazlık tasarlananlar zaten iyi nefes alabiliyor. Kışlık olanlarda özellikle ucuz modellerde su geçirmezliği sağlamak için nefes bile almayan plastikimsi malzeme kullanıyorlar. Bu nedenle, kışlık olanlarda mümkünse su geçirmeyen ve nefes alabilen modeller tercih edilmeli.
 - **Fiziksel koşullara (kullanım amacına) uygunluk** Kanyon, tırmanma, yaklaşma, hiking, vb. outdoor faaliyetlerin hepri için bambaşka ayakkabı modelleri vardır.
 
 # Kişisel görüşlerim
@@ -70,9 +70,12 @@ Gore-Tex bir tekstil üreticisi ismi. İcad ettikleri astar, bu sektörde devrim
 
 Gore-Tex benzeri, çok sayıda farklı üreticinin astarı bulunmaktadır. Piyasada en yaygın bilinen marka ise Gore-tex olmuştur. Daha önce gore-tex dışında farklı bir markanın astarını kullanan ayakkabı almıştım ve su geçirmişti. O kadar para vermişken böyle sorun yaşayınca insan üzülüyor. Bu nedenle, çok iyi bir referans ve kanıt görmediğim sürece 2023 yılı itibarıyla, hala benim favorim Gore-Tex astarlar.
 
-**Not:** Gore-Tex astar, kumaş gibi parça ile satılan bir şey. Ayakkabı (ve diğer giyim malzemeleri) üreticileri bu astarı satın alıp kendi ürünlerinde kullanıyorlar. Eğer üreticinin imalat kalitesi iyi değilse, astarın birleşim yerlerinden su geçirme ihtimali var. **Adidas**'ın ve "**The North Face**" firmasının Gore-Tex ayakkabıları ile ilgili kötü yorumlar okumuştum mesela.
+> **Not:** Gore-Tex astar, kumaş gibi parça ile satılan bir şey. Ayakkabı (ve diğer giyim malzemeleri) üreticileri bu astarı satın alıp kendi ürünlerinde kullanıyorlar. Eğer üreticinin imalat kalitesi iyi değilse, astarın birleşim yerlerinden su geçirme ihtimali var. **Adidas**'ın ve "**The North Face**" firmasının Gore-Tex ayakkabıları ile ilgili kötü yorumlar okumuştum mesela.
 
-**Not:** Gore-Tex ayakkabılar "nefes alabilir" özellikte olduğu için, içi yünlü bir çizme gibi aşırı ısıtmıyor olabilir. Ayakları çok üşüyenler, bu konuyu da araştırabilir isterse.
+> **Not:** Gore-Tex ayakkabılar "nefes alabilir" özellikte olduğu için, içi yünlü bir çizme gibi aşırı ısıtmıyor olabilir. Ayakları çok üşüyenler, bu konuyu da araştırabilir isterse.
+
+> **Not:** Nefes alamayan ayakkabılar daha çok üşütebilir. Ayağın üşüme sebebinin terleme olduğunu söylerler. Eğer ayakkabı içerideki nemi (ter buharını) dışarı atamazsa, ayak daha fazla üşüyebilir.
+{:.warning}
 
 ## Diğer su geçirmez ürünler
 Su geçirmeyen ayakkabıların bazı ucuz modellerinin en önemli tehlikesi, ayakkabı içinde terlemeye bağlı nem oluşmasıdır. Aslında ayağınız bir poşet içinde gibi düşünebilirsiniz; sadece suyu değil havayı da geçirmezler. Nemlenen ayakların yürüyüş sırasında fiziksel zarar görmesi daha kolay olur. Ayakkabı içinde bakteri üremesi daha kolay olur. Ayrıca kışın soğuk havada su geçirmez bottan çıkan ayakların terden sırılsıklam olduğunu da görebilirsiniz. Oysa nefes alabilen astarlar sayesinde ayakkabı içindeki nem buharlaşarak dışarı çıkabilir.
