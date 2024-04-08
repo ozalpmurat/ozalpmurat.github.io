@@ -13,7 +13,7 @@ _Görsel kaynağı: <https://www.piqsels.com/en/public-domain-photo-zttdv>_
 
 **NOT-2:** Kuşlarla arası iyi olan bir veterinerden daha sağlıklı bilgi edinebilirsiniz. Yazılarımdan dolayı sorumluluk kabul etmem. Sadece kendi tecrübelerimi paylaştım.
 
-**NOT-3:** Topak yem yerine, yaygın olarak "pellet/pelet" ve "extrude yem" ifadeleri kullanılmaktadır. Sözcüğün orjinali "pellet". İngilizce-Türkçe sözlüklerde karşılığı olarak "pelet" yazılmış. Türkçe ifade için [sozluk.gov.tr](http://sozluk.gov.tr)'de "pelet" aradım bulamadım. Yine sözlüklerde "pellet" karşılığı olarak "topak yem" ifadesi kullanılmış. Bu da gayet güzel ama malesef çok oturmamış.
+**NOT-3:** Topak yem yerine, yaygın olarak "pellet/pelet" ve "extrude yem" ifadeleri kullanılmaktadır. Sözcüğün orjinali "pellet". İngilizce-Türkçe sözlüklerde karşılığı olarak "pelet" yazılmış. Türkçe ifade için [sozluk.gov.tr](https://sozluk.gov.tr)'de "pelet" aradım bulamadım. Yine sözlüklerde "pellet" karşılığı olarak "topak yem" ifadesi kullanılmış. Bu da gayet güzel ama malesef çok oturmamış.
 
 # Neden bu yazı?
 Çünkü aradığım gibi bir yazı bulamadım. Zaten topak yem daha birkaç senedir ülkemizde var. Dolayısıyla kültürü de oturmamış. Yeni yeni yaygınlaşıyor. Birkaç farklı yem denediğim için, benzer durumda olanlara faydası olabileceğini düşünerek yazmak istedim. Yazılarıma katılmayanlar iletişim bilgilerimden ulaşıp ifade edebilirler, hatam varsa düzeltmeye çalışırım.
@@ -59,7 +59,7 @@ Gördüğüm kadarıyla bugün itibarıyla yabancı marka ürün ülkemizde pek 
 
 Piyasaya ilk girenlerden birisi bu olabilir gibi geliyor bana, emin değilim. Bu ürünün satışı internet üzerinde diğerlerine göre daha az bulunuyor. Nedendir, bilmiyorum. Belki de çok reklam vermemişlerdir.
 
-Firma Çorum'da. Web sitesi: <http://pettyfood.com.tr>
+Firma Çorum'da. Web sitesi: <https://pettyfood.com.tr>
 
 750 gram ve 5 kiloluk ambalajları var.
 
@@ -72,7 +72,7 @@ Telefonla arayıp problemimi anlattım. Mevcut durumda kullandığım yemi (Pett
 
 Sanırım 1-2 sene olmuş yem üretimine başlayalı. Aslında, _kendi hayvanları için ürettikleri yemi satmaya başlayalı_, desem daha doğru olacak galiba.
 
-Bu yemi envai çeşit e-ticaret sitesinde bulabilirsiniz. Kendileri de e-ticaret sitesi açmışlar, daha çok taze ama ne kadar uzun ömürlü olur bilmiyorum: <http://yemburda.com>
+Bu yemi envai çeşit e-ticaret sitesinde bulabilirsiniz. Kendileri de e-ticaret sitesi açmışlar, daha çok taze ama ne kadar uzun ömürlü olur bilmiyorum: <https://yemburda.com>
 
 "_rasyon_" ifadesi , aynı zamanda yemlerde karşım oranını da ifade eden bir sözcük. Bunu da belirtelim. Sağda solda yemlerde "rasyon" ifadesini duyduğunuzda hep bu markadan bahsedildiğini düşünmeyin. Firma yem için güzel isim bulmuş bence.
 
@@ -85,7 +85,7 @@ Bu yemi envai çeşit e-ticaret sitesinde bulabilirsiniz. Kendileri de e-ticaret
 
 Rasyon ve Petty'nin aksine bunun farklı ihtiyaçlara göre (üretim yemi gibi) farklı türleri yok. Sadece "Pupa topak yem" :) Ambalaj olarak da sadece 1 kiloluk paketleri var.
 
-Web sitesi: <http://esyem.com.tr>
+Web sitesi: <https://esyem.com.tr>
 
 ## Energy Cube (kullanmadım)
 ![Energy Cube yem](/images/2022-01-16-energycube.jpg){:height="30%" width="30%"}

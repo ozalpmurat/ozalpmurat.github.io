@@ -6,7 +6,7 @@ layout: post
 categories:
   - Genel
 tags: mulakat
-published: false
+published: true
 toc: true
 ---
 Burada tüm soruları tabii ki veremeyeceğim. Balık tutmayı öğretmeye çalışacağım :)
