@@ -3,7 +3,8 @@ layout: post
 title: Hangi Su Arıtıcı?
 categories:
   - Genel
-tags: su arıtıcı
+tags:
+  - su arıtıcı
 published: true
 ---
 İnsan takıntılı olunca bazen takılıyor. Arıtıcı konusu da yıllar öncesinden takıldığım bir konu. Ara ara konuyu takip ediyorum. Derli toplu bir yazı bulamadığım için yazma ihtiyacı hissettim. Konunun uzmanı değilim. Yazıdaki sayısal değerleri ve bilimsel ifadeleri güvenilir gibi gelen yerlerden alıntı yaptım. Yazının içinde kendi yaptığım hiç bir test yoktur. TDS cihazını merak ettim ama onu bile alıp test yapmadım. Zaten TDS değeri pek ilgimi de çekmiyor.

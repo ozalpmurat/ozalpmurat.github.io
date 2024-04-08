@@ -2,7 +2,7 @@
 layout: post
 title: Kategorik veri türlerini yapay sinir ağına gönderme
 categories: [Yapay Zeka]
-tags: veri ysa matlab
+tags: ysa veri
 
 toc: true
 katex: true  # if you're using math

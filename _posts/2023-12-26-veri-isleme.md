@@ -3,7 +3,7 @@ layout: post
 title: Veri ön işleme ve Yapay Sinir Ağı eğitimi akış diyagramı
 categories:
   - Yapay Zeka
-tags: YSA
+tags: veri ysa
 published: true
 toc: true
 ---

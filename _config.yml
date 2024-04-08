@@ -103,7 +103,8 @@ paginate: 10
 
 plugins:
 #  - jekyll-seo-tag
-  - jekyll-sitemap
+ - jekyll-sitemap
+ - jekyll-archives
   
 kramdown:
   syntax_highlighter: rouge
@@ -177,3 +178,13 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+# jekyll-archives:
+#   enabled: all
+#   layout: archive
+#   permalinks:
+#     year: '/:year/'
+#     month: '/:year/:month/'
+#     day: '/:year/:month/:day/'
+#     tag: '/tag/:name/'
+#     category: '/category/:name/'
