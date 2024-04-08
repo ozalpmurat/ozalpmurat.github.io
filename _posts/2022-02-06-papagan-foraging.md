@@ -22,7 +22,7 @@ _Bu videodaki tahtayı tamamen parçalaması 1 gün sürmedi. Kürdan gibi kıym
 - Hayvanın **sevdiği yiyecek**. Tahtaya deldiğimiz oyuklara sokuşturmak için.
 - **Karabina** ve **halkalı vida**. Halkalı vida bulamazsanız, kancalı vida bulup kancasını sıkarak halka haline getirebilirsiniz. Vida çok ince olmasın; 3,5mm gibi iyidir. Uzunluğunda da dişli kısmı 4cm'den az olmasın.
 
-![](/images/2022-02-06-papagan-foraging.jpg)
+![Malzemeler](/images/2022-02-06-papagan-foraging.jpg)
 _Birden fazla görsel için ayrı uğraşamadım. Kolaj ile gösterdim_
 
 # Tarif

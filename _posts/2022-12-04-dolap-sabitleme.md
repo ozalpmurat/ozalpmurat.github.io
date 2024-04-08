@@ -19,7 +19,7 @@ Burada yazılmış olan içerik fikir verme amaçlı olarak yazılmıştır. Ken
 Bizim çocuk, 2022 Düzce depreminden sonra, -*haklı olarak*- "sabitle bunları" diye tutturunca daha fazla erteleyemedim.
 
 Piyasada kafama göre ürün bulamayınca, kafama göre malzeme alıp betona (kirişe) sabitledim.
-![](/images/2022-12-04-00-SonHali.jpg)
+![Son hali](/images/2022-12-04-00-SonHali.jpg)
 _Bitmiş hali_
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/hGIiAiYY6hA" frameborder="0" allowfullscreen></iframe>
@@ -33,7 +33,7 @@ Piyasada sabitleme konusunda bazı ürünler satılıyor ancak onlara pek güven
 - Dolabı yer değiştirince, duvarda kullanışsız delik kalacak olması hoşuma gitmedi. Bunun yerine, benden sonra eve taşınacak kişi için kirişte sağlam iki halka bırakma fikri mantıklı geldi.
 
 # Kullandığım malzemeler
-![](/images/2022-12-04-01-malzemeler.jpg)
+![Malzemeler](/images/2022-12-04-01-malzemeler.jpg)
 _Çelik dübel, zincir, vida, lama gönye, somunlar ve pullar_
 Bire bir aynı ölçüleri kullanmak zorunda değilsiniz. Ben yapı markete gidip bulabildiğim ürünleri birbirine uyup uymadığını kontrol ederek aldım. Aşağıda da onları yazdım.
 - 8'lik **çelik dübel**. Bunu takabilmek için, darbeli matkap ve 8'lik **beton delme ucu**. Bir dolabı iki noktadan bağlamak için, dolap başına iki dübel gerekli.
@@ -46,7 +46,7 @@ Bire bir aynı ölçüleri kullanmak zorunda değilsiniz. Ben yapı markete gidi
 - **Karabina** (isteğe bağlı). Zincir takılıp sökülebilsin derseniz, karabina kolaylık sağlar.
 
 # Uygulama
-![](/images/2022-12-04-02-uygulama.jpg)
+![Uygulama](/images/2022-12-04-02-uygulama.jpg)
 _Malzemeler birbirine böyle takılmış olacak_
 - Kirişte deleceğin yeri belirle. Kenardan 15 cm kadar uzak olsa iyi olur. Çok kenarda olursa, yük binince betonu patlatabilir.
 - Mobilyanın üstünde, çelik dübel ile aynı hizada delik açacaksın. Ancak bunu da çok kenardan açma, en az 10 cm içeride olsun. Duvardan çok uzakta olursa, mobilyanın üstünü eşya koymak için kullanmak zor olabilir.
@@ -62,8 +62,8 @@ _Malzemeler birbirine böyle takılmış olacak_
 - Daha önce hiç çelik dübel kullanmadıysanız, biraz video izlemenizi tavsiye ederim.
 - Lamayı mobilyaya monte ettikten sonra ben mobilyadaki vida deliğinden bir daha aynı matkapla girdim. Vida sıkışık girip çıkıyordu, böyle yapınca rahatladı.
 
-![](/images/2022-12-04-03-IcGorunus.jpg)
+![İç görünüş](/images/2022-12-04-03-IcGorunus.jpg)
 _Dolabın içinden bakınca böyle görünüyor_
 
-![](/images/2022-12-04-04-ZincirKesme.jpg)
+![Zincir kesme](/images/2022-12-04-04-ZincirKesme.jpg)
 _Zincir kesmek için kullandığım aparat_

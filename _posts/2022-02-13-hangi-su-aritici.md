@@ -84,7 +84,7 @@ Hindistan cevizi kabuğu, odun gibi maddelerin yüksek ısıda kömürleştirilm
 - Teorik olarak virüsleri bile geçiremez ama uygulamada geçirdiği olur. Contaların arasından veya filtredeki çok küçük hatalı kısımlardan canlı organizmalar geçebilir. İşin kötüsü, membran filtrenin arka tarafındaki tankta biriken su klorsuz olduğundan, canlı üremesi için uygun bir ortamdır. Filtrenin üretimi aşamasında kalite kontrolden geçebilmesi için tuzlu suyu arıtması bekleniyor. Günümüzde iyi filtreler %99,8 oranına kadar tuzu arıtabiliyormuş. Ancak en kaliteli membranda bile %100 değil bu oran. Dolayısıyla az da olsa çeşme suyundaki nesneler arka tarafa geçebiliyor. Hiç bir membran (ya da arıtıcı) üreticisi bakteri ve virüsleri %100 engelleme garantisi veremez. Daha fazla okuma yapmak için anahtar sözcükler: _reverse osmosis membranes salt rejection rate_.
 
 # Yaygın bulunan arıtıcı türleri
-![](/images/2022-02-13-ariticilar.jpg)
+![Arıtıcı tipleri](/images/2022-02-13-ariticilar.jpg)
 _1.Ters ozmoz - 2.Reçineli arıtıcı - 3.Sürahi tipi - 4.UV özellikli_
 
 ## Ters ozmoz

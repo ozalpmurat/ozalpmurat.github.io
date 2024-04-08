@@ -7,7 +7,7 @@ tags: pelet papağan
 published: true
 ---
 
-![](/images/2022-01-16-featured.jpg)
+![Pelet yem](/images/2022-01-16-featured.jpg)
 _Görsel kaynağı: <https://www.piqsels.com/en/public-domain-photo-zttdv>_
 **NOT-1**: Büyük papağanlar: Jako (african grey), Amazon, Kakadu, Macaw, vb. Bizimkisi 8 yaşında Kongo türünde dişi Jako. 13 Ağustos'ta bize geldi, daha 6 aydır bizde. Öncesinde "sultan papağanı" haricinde tecrübem yok.
 

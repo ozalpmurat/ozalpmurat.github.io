@@ -76,7 +76,7 @@ Ubuntu'yu yeniden başlat.
 ### 2. VirtualBox'ta hangi USB cihazın sanal makineye takılacağının seçilmesi
 VirtualBox'a geçerek, hangi USB cihazların sanal makineye takılabileceği ile ilgili filtreleri gir. Aşağıda ekran görüntüsünde gösterdim:
 
-![](/images/2022-12-09-linux-envision-eimza-kesincozum.png)
+![VirtualBox VM ayarları. USB sekmesi](/images/2022-12-09-linux-envision-eimza-kesincozum.png)
 _VirtualBox VM ayarları. USB sekmesi_
 
 Görselde görüldüğü gibi, USB sekmesinde bir filtre girilmesi gerekiyor. Bu filtreye uyan USB aygıtları, VM içerisinde kullanabileceğiz.

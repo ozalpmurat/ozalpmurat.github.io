@@ -19,7 +19,7 @@ Kodlamada **Python** ve **GNU Octave** ile çalışmıştım.
 - https://stats.stackexchange.com/questions/55718/pca-and-the-train-test-split
 - https://machinelearningmastery.com/data-preparation-without-data-leakage/
 
-![](/images/2023-12-26-veri-onisleme-ve-ysa-algoritma.png)
+![Veri önişleme akış diyagramı](/images/2023-12-26-veri-onisleme-ve-ysa-algoritma.png)
 
 # Metinsel özet
 1. Önce mutlaka metin editöründe (tercihen **Notepad++** veya Linux'ta **Notepadqq**) açarak, gözle muayene yap. Veriler hangi işaretle ayrılmış? Göze çarpan anormallik (değişik karakterler, uyumsuz satırlar, büyük/küçük harfler, vb.) var mı?

@@ -58,7 +58,7 @@ Yazdığım her madde her kuşta olacak diye bir kural yok; çoğunlukla ortak �
 - Küçükken insana alışan kuşlar evcilleşebilir, büyümüş olanlar ise onlar kadar evcilleşmez ve çok daha fazla emek ister.
 - Pislik yaparlar. Yemeklerini etrafa sıçratırlar, tüy dökerler. Hatta bazıları toz/kepek döker.
 
-![](/images/2022-06-21-Papaganlar.png)
+![Papağanlar](/images/2022-06-21-Papaganlar.png)
 _Ayaktakiler soldan sağa: macaw, macaw, kakadu, amazon, jako, senegal, konur, sultan, muhabbet. Görsel kaynağı: https://allstarparrots.co.uk/parrot-species_
 
 # Neden papağan?
@@ -102,7 +102,7 @@ Yaygın olarak beslenen kuş türleri genelde evcil hayvan satan dükkanlarda va
 - **Hayvan kaçakçılığı riski**. Nesli azalan hayvanların yutdışından kaçak yollarla getirildiğini biliyoruz. Bu tarz bir hayvan sahiplenecekseniz, CITES belgesi mutlaka olmalıdır.
 - **Doğadan yakalanmış olma riski** Lendi doğal ortamından koparılıp, kötü yolculukla getirilerek kafese tıkılmış olmanın sıkıntılarını o hayvan kolay atlatamayacaktır.
 
-![](/images/2022-06-21-SisedeKakadu.png)
+![Şişede kakadu](/images/2022-06-21-SisedeKakadu.png)
 _Kaçak kuşlar böyle naklediliyor ve bir kısmı da yolculuk sırasında ölüyormuş_
 
 Evcil hayvan dükkanlarını zan altında bırakmak istemiyorum. Mutlaka işini düzgün yapanlar (hayvanları çok sevenler) de vardır. Belki dükkan sahibi ile biraz sohbet edip tanımaya çalışabilirsiniz. Kafesteki hayvanların yemlerine bakarsınız, hep çekirdek koyulmuşsa dikkatli olursunuz. Kafeslerin altının pis olup olmadığına dikkat edersinz. Kafeslerin yeterince büyük olup olmadığına, hayvanların sıkışık olup olmadığına bakarsınız. Bu tarz incelemeler dükkan ve hayvana saygı açısından fikir verebilir.
@@ -192,7 +192,7 @@ Bunların dışında, oyuncak gibi aksesuarlar için para harcamak isteyenler ha
 ## Araştırma yapın
 Mutlaka araştırma yapıp bu soruya kendiniz cevap verin. Başlangıç olarak Google'da "parrot comparison chart" gibi bir şeyler aratarak aşağıda örneğini göreceğiniz tablolara bakın.
 
-![](/images/2022-06-21-PapaganlarKarsilastirma.png)
+![Papağan karşılaştırma](/images/2022-06-21-PapaganlarKarsilastirma.png)
 _Papağan türleri karşılaştırması. Tam tablo koymadım çünkü internet'te bir sürü var. Doğru olup olmadığını incelemeden de koymak istemedim. Örnek tablonun kaynağı: https://www.allpetbirds.com/parrot-characteristics_
 
 Sonra şu tarz sorular sorun kendinize ve cevaplayın:

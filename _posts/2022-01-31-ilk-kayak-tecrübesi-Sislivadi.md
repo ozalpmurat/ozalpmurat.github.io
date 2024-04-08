@@ -7,7 +7,7 @@ tags: kayak spor
 published: true
 ---
 
-![](/images/2022-01-31-aile-selfisi.jpg)
+![Aile selfisi](/images/2022-01-31-aile-selfisi.jpg)
 _Kayak kulübesi önünde aile selfisi_
 
 # Özet
@@ -28,7 +28,7 @@ _Kayak kulübesi önünde aile selfisi_
 
 Listeye eklemedim ama biraz da kondisyon olursa çok çok faydası olur.
 
-![](/images/2022-01-31-kartepe_kayak_evi.jpg)
+![Malzeme kiralama](/images/2022-01-31-kartepe_kayak_evi.jpg)
 _Ayşe ve Sare'ye kiralık kayak takımı ayarlanıyor_
 
 # İpuçları (kayak sporuna yeni başlayacak olanlara tavsiyeler)
@@ -54,7 +54,7 @@ Pistler 10.00 - 17.00 arasında açık. Eğitim alınırsa; 1 saat ders alınıy
 
 Sonra saat 10'da tesiste olduk ama daha pek açılmamıştı. Ve hava da iyi soğuktu. O saatte pistte henüz güneş te gelmemiş oluyor, ağaçların arkasında kalıyor. Sanırım saat 12 gibi güneş gelmişti. Biz giyinmeye başladık, o arada hocalardan birisi geldi, muhabbet ettik biraz, çevreyi anlattı. Eğitime sanırım 10.40 gibi falan başlayabildik. O saatte bile üşüdük.
 
-![](/images/2022-01-31-sare_ve_pist.jpg)
+![Sare ve pist](/images/2022-01-31-sare_ve_pist.jpg)
 _Sare eğitim pistinde kaydıktan sonra kayaklarını çıkarmış, batonları ile beraber kucaklayıp yeniden kaymaya gidiyor_
 
 Eğitimde, 10-15 dakika kadar teorik anlatım var. Sonra kayakların giyilmesi/çıkarılması, kayakla yürüme, temel duruş pozisyonu, nasıl düşüleceği, vb. gibi temel konular ve **en önemli aşama** dedikleri **kar sabanı** hareketine çalışma. Bunun internette bol bol videosu var, bakabilirsiniz. Zaten hocalr da göstermiyor, sözel tarif ediyor. Kayak takımını kendisi hiç giymedi hocalar. Bir çok hareketin temelini kar sabanı oluşturuyor. Daha da önemlisi, yavaşlamak ve durmak için en çok kullanılacak yöntem bu. Bu temel eğitimin son aşaması kar sabanı. Zaten bu hareketin oturması için bir gün yetmez ama en azından gerçek piste çıkabilmek için temel seviyede yapabilmek lazım. Toplamda 1 saate yakın eğitim aldık, sonra bizi serbest bırakıp sonraki gruba geçtiler. Biz kendimiz hareketlere çalıştık. Öğleden sonra saat 2'ye kadar kar sabanı çalıştık artık gerçekten yorulduğumuz için piste çıkmayı talep ettik. Yorulduk çünkü 20-30 metre kadar çok az eğimli eğitim pistinde kayıyorduk, sonra kayakları çıkarıp o takoz gibi botlarla geri yürüyorduk. Botlarla yürümek bir süre sonra çok yoruyor. Hocalar sabanı düzgün yapıp yapamadığımıza bakıp bizi telesiyejle yukarı çıkardılar.
