@@ -11,7 +11,7 @@ toc: true
 ---
 Burada tüm soruları tabii ki veremeyeceğim. Balık tutmayı öğretmeye çalışacağım :)
 
-Arama motorunda "......... job interview questions" şeklinde aratırsanız bol miktarda örnek bulabiliyorsunuz. Cümlede boş bırakılan yeri istediğiniz gibi doldurabilirsiniz. Örnek bazı başlıkları ve soruları İnternet'ten araklayıp Translate'e çevirtip aşağıda yazdım.
+Arama motorunda "........ job interview questions" şeklinde aratırsanız bol miktarda örnek bulabiliyorsunuz. Cümlede boş bırakılan yeri istediğiniz gibi doldurabilirsiniz. Örnek bazı başlıkları ve soruları İnternet'ten araklayıp Translate'e çevirtip aşağıda yazdım.
 
 # Genel örnek sorular
 * Neden bu pozisyona başvurdunuz?
