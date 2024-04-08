@@ -28,3 +28,5 @@ gem "jekyll", "~> 4.3"
 gem "csv"
 gem "base64"
 gem "bigdecimal"
+gem 'sass-embedded', '~> 1.74.1'
+
