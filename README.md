@@ -1,3 +1,27 @@
+# Açıklama
+[https://ozalpmurat.github.io/](https://ozalpmurat.github.io/) adresindeki blog sitemin kaynak kodları burada duruyor. Siteyi Jekyll ile yaptım. Ubuntu'da yerelde çalıştırmak için yapılması gereken işlemler şöyle:
+```sh
+git clone https://github.com/ozalpmurat/ozalpmurat.github.io.git
+sudo apt install ruby-bundler ruby-dev
+bundle config set --local path 'vendor/bundle'
+bundle install
+bundle exec jekyll serve
+```
+Bundan sonra çıktısı şöyle oluyor ve TCP 4000 portuna tarayıcıdan bağlanabiliyorsunuz.
+```
+$ bundle exec jekyll serve
+Configuration file: /home/murat/github/ozalpmurat.github.io/_config.yml
+            Source: /home/murat/github/ozalpmurat.github.io
+       Destination: /home/murat/github/ozalpmurat.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.824 seconds.
+ Auto-regeneration: enabled for '/home/murat/github/ozalpmurat.github.io'
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+```
+
+
 # Chirpy Starter [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
 When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders `_includes`, `_layout`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file from the theme's gem. If you have ever installed this theme gem, you can use the command `bundle info --path jekyll-theme-chirpy` to locate these files.
