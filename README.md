@@ -20,7 +20,8 @@ Configuration file: /home/murat/github/ozalpmurat.github.io/_config.yml
     Server address: http://127.0.0.1:4000/
   Server running... press ctrl-c to stop.
 ```
-
+# Sayfa düzenleme
+Herhangi bir metin editöründe içerik yazabilirsiniz. Ben VSCode kullanıyorum. "[Jekyll Run](https://marketplace.visualstudio.com/items?itemName=Dedsec727.jekyll-run)" eklentisi ile VSCode içinde otomatik Jekyll çalıştırma özelliği de geliyor. Tavsiye ederim. 
 
 # Chirpy Starter [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
