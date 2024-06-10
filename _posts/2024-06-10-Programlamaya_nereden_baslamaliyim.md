@@ -15,4 +15,6 @@ Kısacık bir video zaten ama yine de birkaç cümlelik özet geçmeye çalışa
 
 Kendisinin kısa özgeçmişi için: [https://rakyll.org/about/](https://rakyll.org/about/)
 
+[https://www.youtube.com/watch/?v=-PdcaIy_SjQ](https://www.youtube.com/watch/?v=-PdcaIy_SjQ)
+
 <iframe width="600" height="400" src="http://www.youtube.com/embed/-PdcaIy_SjQ" frameborder="0" allowfullscreen></iframe>
