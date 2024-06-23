@@ -1,6 +1,6 @@
 ---
-title: "Programlamaya Nereden Başlamayalım?"
-description: "Asıl soru: \"programlamaya neden başlayacağım?\""
+title: "Programlamaya Nereden Başlamalıyım?"
+description: "Asıl soru: \"programlamaya NEDEN başlayacağım?\""
 layout: post
 categories:
   - Genel
