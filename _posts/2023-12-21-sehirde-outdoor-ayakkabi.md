@@ -2,7 +2,8 @@
 layout: post
 title: Şehirde kullanmak için outdoor ayakkabı almak
 categories:
-  - Genel
+  - Hobi
+  - Gezi, spor, doğa  
 tags: ayakkabı bot outdoor
 published: true
 toc: true

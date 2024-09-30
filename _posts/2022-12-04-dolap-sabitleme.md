@@ -2,7 +2,7 @@
 layout: post
 title: Depreme karşı büyük ve ağır dolap (gardırop) sabitleme
 categories:
-  - Genel
+  - Hobi
 tags: deprem
 published: true
 toc: true
