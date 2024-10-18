@@ -4,75 +4,29 @@ layout: post
 categories:
   - Hobi
 published: false
-toc: true
+# toc: true
 ---
-Evde küçük tamir işleri hobi oldu biraz bende. Farklı farklı işlerde farklı yapıştırıcılar kullanınca paylaşmak istedim bunları.
+Aşağıdaki sorulardan 10 tanesi çıkacak. Cevapları, arkalı-önlü 1 kağıda sığdırmanızı isteyeceğim. Bu nedenle çalışırken, "kısa cevap" verecek şekilde çalışabilirsiniz.
 
-# Tutkallar
-## Epoksi tutkal (2 bileşenli)
-_İran yapıştırıcısı_ veya _metal yapıştırıcısı_ olarak ta bilinebiliyor. Farklı markaların şeffaf veya renkli ürünleri var. Reçine ve hızlandırıcı amaçlı 2 farklı ürün aynı miktarda karıştırılıp kullanılıyor. Tamamen kürleşmesi 24 saati buluyor. Farklı amçalarla kullanılabilir. Isıya dayanıklıdır. Zımpara ve delme işlemleri yapılabilir. Tencerenin kırılan porselen sapını yapıştırdım, yıllardır sağlam. Brita sürahinin çatlayan üst kısımlarını yapıştırdım, o da beklemediğim kadar sağlam oldu. Klozet rezervuar parçaları gibi su içinde kalan işlemlerde de sorunsuz kullandım.  
-![2 bileşenli epoksi tutkal](../images/2024.09.30-epoksi2bilesen.png)
-
-## Epoksi tutkal (UV ışıkla sertleşen)
-Morötesi (UV) ışıkla kürleşiyor. Hızlandırıcı gerekmediği için, tek bileşenli. UV ışık ile 1-2 dakika içinde tamamen kürleşebiliyor. Genelde şeffaf oluyor. Üstteki kadar güçlü değil gibi geldi bana. Ama çok yük taşımayacak yerlerde tercih edilebilir. En önemli avantajı; çalışma süresi uzun ve istendiğinde hızlı bir şekilde kürleşebiliyor olması.
-![Epoksi UV tutkal](../images/2024.09.30-epoksi_uv.png)
-
-## Epoksi macun
-xxx  
-![Epoksi macun](../images/2024.09.30-epoksi_macun.png)
-
-## Kontakt yapıştırıcı (solventli)
-xxx  
-![Kontakt tutkal](../images/2024.09.30-kontakt_tutkal.png)
-
-## Japon
-xxx
-karbonat, sigara külü, kalem ucu grafit tozu
-
-## PVA slime
-xxx
-
-## Silikon tutkallar
-- Sıcak silikon
-- Banyo silikonu (tüp veya tabanca tipi)
-- mastik?
-- Soğuk kırtasiye silikonu
-
-## Diğer tutkallar
-Mum tutkal, Uhu gibi olanlar, tack-it tarzındakiler, vb.
-
-## Ahşap tutkalları
-xxx
-
-# Bantlar
-xxx
-
-## Duck tape
-xxx
-
-## Bez bant
-xxx
-
-## Çamur bant
-xxx
-
-## Gerdir-sar bant
-xxx
-
-## İzole bant (elektrik bandı)
-
-## Diğer
-Koli bantı, para bandı, çift taraflı bant, vb.
-
-# Diğer malzemeler
-xxx
-
-## Plastik birleştirme kaynak telleri
-xxx
-
-## Düşük sıcaklık kaynak malzemesi
-xxx
-
-##
-Lehim
-xxx
+1. 2FA/MFA (2 veya çok aşamalı kimlik doğrulama) nedir? Örnek vererek kısaca açıklayın.
+2. AAA olarak kısaltılan Authentication-Authorization-Accounting ifadelerini kısaca açıklayın.
+3. Asimetrik ve simetrik şifreleme arasındaki farkları açıklayınız.
+4. Botnet nedir? Botnet'lerin zararlı etkilerini ve bunlara karşı alınabilecek önlemleri açıklayınız.
+5. DVWA nedir, ne amaçla geliştirilmiştir? Barındırdığı zafiyetlerden 3 tanesini yazın.
+6. Dijital imza nedir ve nasıl çalışır? Dijital imzanın kullanım alanlarını açıklayınız.
+7. Firewall nedir ve nasıl çalışır? Stateful ve stateless firewall arasındaki farkları açıklayınız.
+8. Güvenlik olayları yönetimi (SIEM) nedir? SIEM önemini açıklayınız.
+9. IPS nedir? IPS sistemlerinden 2 tanesinin ismini yazınız.
+10. ISO 27001 nedir, ne amaçla geliştirilmiştir? Kısaca açıklayın.
+11. Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında istenen teknik tedbirlerden 3 tanesini yazarak kısaca açıklayın.
+12. Man-in-the-middle (MITM) saldırısı nedir? Bu saldırıya karşı alınabilecek önlemleri açıklayınız.
+13. OSI modeline göre 1. katmanda yapılabilecek saldırı türlerinden iki tanesini yazıp kısaca açıklayınız.
+14. PfSense nedir? Hangi işletim sistemi üzerine çalışmaktadır? PfSense alternatiflerinden 2 tanesinin ismini yazınız.
+15. Ransomware nedir? Ransomware saldırılarından korunmak için hangi önlemler alınmalıdır?
+16. SQL Injection saldırısı nedir? Bu saldırının gerçekleşmesini önlemek için hangi güvenlik önlemleri alınmalıdır?
+17. Sandbox nedir? Nasıl çalışır? Bunun için kullanılabilen bir uygulama ismi verin.
+18. Tehdit, güvenlik açığı, risk, istismar kavramlarını 1-2 cümle ile açıklayın.
+19. Tersine mühendislik (reverse engineering) nedir? Kısaca açıklayın. Bu amaçla kullanılabilecek 2 uygulama ismi verin.
+20. VPN (Virtual Private Network) nedir ve nasıl çalışır? VPN kullanmanın güvenlik açısından avantajları nelerdir?
+21. Yedeklemede 3-2-1 kuralı nedir? Kısaca açıklayınız.
+22. Zero-day saldırısı nedir? Zero-day açıklarının tespiti ve önlenmesi için hangi stratejiler kullanılabilir?
