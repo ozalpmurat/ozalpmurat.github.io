@@ -49,9 +49,18 @@ PVA (Polivinil asetat) tutkalı, çocukların slime yapmak için kullandığı b
 ## Silikon tutkallar
 
 ### Sıcak silikon
+Sıcak silikon tabancası ile kullanılan çubuk şeklindeki yapıştırıcıdır. Tabanca ısıtıldığında eriyerek akışkan hale gelir ve soğudukça katılaşır. Hızlı kuruması ve çeşitli malzemelere yapışabilmesi nedeniyle el işi projelerinde, dekoratif uygulamalarda ve geçici yapıştırma işlemlerinde sıkça tercih edilir. Dış mekan şartlarına pek uygun değildir. Ayrıca yüksek sıcaklıklarda yumuşayabilir veya eriyebilir.
 
-### Banyo silikonu (tüp veya tabanca tipi)
-Mastik te bu kapsamda yazılabilir.
+Standart olarak 2 farklı kalınlıkta ve farklı renklerde silikon çubuklar bulunabilir. Kuruduktan sonra mukavemeti fazla değildir. 
+
+Bence her evde olması gereken bir yapıştırıcıdır. Maddi açıdan sıkıntı yoksa, görseldeki Bosch'un ürününü tavsiye ederim. Dremel ürünleri de iyidir. 8-10 tane farklı marka eskittikten sonra görseldekini aldım ve eskitemedim.
+![Sıcak silikon](../images/2024.09.30-sicak_silikon.png)
+
+### Soğuk yapı silikonları (tüp veya tabanca tipi)
+Çoook fazla türü var bunun. Genellikle tüpte satılırlar, özel tabancası ile sıkılırak kullanılırlar. Yapışkanlık gücü genellikle çok iyidir. Suya ve sıcağa dayanıklı, esneme kabiliyeti olan, şeffaf renk olanları vardır. Duşakabinlerin kıyısında hem yapıştırma hem de su sızdırmazlığı için kullanılır. Küçük işler için diş macunu gibi küçük tüpte satılanları da vardır.
+
+Eğer dolgu amacıyla kullanılacak ve üzerine de boya yapılması ihtimali varsa, _mastik_ denilen türde olanlar tercih edilebilir.  
+![Soğuk yapı silikonu](../images/2024.09.30-yapi_silikonu.png)
 
 ### Soğuk kırtasiye silikonu
 
