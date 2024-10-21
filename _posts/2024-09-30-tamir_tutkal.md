@@ -39,17 +39,21 @@ Karbonat, sigara külü, kurşun kalem ucu grafit tozu gibi malzemelerle harmanl
 
 ##  İki bileşenli hızlı yapıştırıcı
 (MDF Kit diyenler de var).  
-Yukarıdakinin biraz daha koyu kıvamlı (yoğun viskoziteli) olanı. Yanında hızlandırıcı ile geliyor. Hızlandırıcı reaksiyonunda ısı veriyor. Kimyasal yanıklara dikkat.  
-![](2024.09.30-iki_bilesenli_hizli.png)
+Yukarıdakinin biraz daha koyu kıvamlı (yoğun viskoziteli) olanı. Yanında hızlandırıcı ile geliyor. Hızlandırıcı reaksiyonunda ısı veriyor. Kimyasal yanıklara dikkat. Bunu bir ustanın geçici tutkal amacı ile kullandığını gördüm. Ahşap malzemeleri yapıştırırken asıl ahşap tutkalının kuruması uzun sürdüğü için birkaç noktadan da bu yapıştırıcı ile destekledi. Böylece ahşap tutkalını beklerken işkence kullanmaya gerek kalmadı.  
+![İki bileşenli hızlı yapıştırıcı](../images/2024.09.30-iki_bilesenli_hizli.png)
 
-## PVA slime
-xxx
+## PVA slime tutkalı
+PVA (Polivinil asetat) tutkalı, çocukların slime yapmak için kullandığı beyaz/şeffaf renkli su bazlı tutkaldır. Ahşap, kağıt, karton gibi gözenekli yüzeylerde oldukça etkilidir. Suya dayanıklı değildir. Kuruduktan sonra şeffaf bir görünüm alır. Çocuk oyuncakları ve el işi projelerinde sıkça kullanılır.
+
 
 ## Silikon tutkallar
-- Sıcak silikon
-- Banyo silikonu (tüp veya tabanca tipi)
-- mastik?
-- Soğuk kırtasiye silikonu
+
+### Sıcak silikon
+
+### Banyo silikonu (tüp veya tabanca tipi)
+Mastik te bu kapsamda yazılabilir.
+
+### Soğuk kırtasiye silikonu
 
 ## Diğer tutkallar
 Mum tutkal, Uhu gibi olanlar, tack-it tarzındakiler, vb.
