@@ -4,29 +4,117 @@ layout: post
 categories:
   - Hobi
 published: false
-# toc: true
+toc: true
 ---
-Aşağıdaki sorulardan 10 tanesi çıkacak. Cevapları, arkalı-önlü 1 kağıda sığdırmanızı isteyeceğim. Bu nedenle çalışırken, "kısa cevap" verecek şekilde çalışabilirsiniz.
+Evde küçük tamir işleri hobi oldu biraz bende. Farklı farklı işlerde farklı yapıştırıcılar kullanınca paylaşmak istedim bunları.
 
-1. 2FA/MFA (2 veya çok aşamalı kimlik doğrulama) nedir? Örnek vererek kısaca açıklayın.
-2. AAA olarak kısaltılan Authentication-Authorization-Accounting ifadelerini kısaca açıklayın.
-3. Asimetrik ve simetrik şifreleme arasındaki farkları açıklayınız.
-4. Botnet nedir? Botnet'lerin zararlı etkilerini ve bunlara karşı alınabilecek önlemleri açıklayınız.
-5. DVWA nedir, ne amaçla geliştirilmiştir? Barındırdığı zafiyetlerden 3 tanesini yazın.
-6. Dijital imza nedir ve nasıl çalışır? Dijital imzanın kullanım alanlarını açıklayınız.
-7. Firewall nedir ve nasıl çalışır? Stateful ve stateless firewall arasındaki farkları açıklayınız.
-8. Güvenlik olayları yönetimi (SIEM) nedir? SIEM önemini açıklayınız.
-9. IPS nedir? IPS sistemlerinden 2 tanesinin ismini yazınız.
-10. ISO 27001 nedir, ne amaçla geliştirilmiştir? Kısaca açıklayın.
-11. Kişisel Verilerin Korunması Kanunu (KVKK) kapsamında istenen teknik tedbirlerden 3 tanesini yazarak kısaca açıklayın.
-12. Man-in-the-middle (MITM) saldırısı nedir? Bu saldırıya karşı alınabilecek önlemleri açıklayınız.
-13. OSI modeline göre 1. katmanda yapılabilecek saldırı türlerinden iki tanesini yazıp kısaca açıklayınız.
-14. PfSense nedir? Hangi işletim sistemi üzerine çalışmaktadır? PfSense alternatiflerinden 2 tanesinin ismini yazınız.
-15. Ransomware nedir? Ransomware saldırılarından korunmak için hangi önlemler alınmalıdır?
-16. SQL Injection saldırısı nedir? Bu saldırının gerçekleşmesini önlemek için hangi güvenlik önlemleri alınmalıdır?
-17. Sandbox nedir? Nasıl çalışır? Bunun için kullanılabilen bir uygulama ismi verin.
-18. Tehdit, güvenlik açığı, risk, istismar kavramlarını 1-2 cümle ile açıklayın.
-19. Tersine mühendislik (reverse engineering) nedir? Kısaca açıklayın. Bu amaçla kullanılabilecek 2 uygulama ismi verin.
-20. VPN (Virtual Private Network) nedir ve nasıl çalışır? VPN kullanmanın güvenlik açısından avantajları nelerdir?
-21. Yedeklemede 3-2-1 kuralı nedir? Kısaca açıklayınız.
-22. Zero-day saldırısı nedir? Zero-day açıklarının tespiti ve önlenmesi için hangi stratejiler kullanılabilir?
+
+**İÇİNDEKİLER:**
+* Do not remove this line (it will not be displayed)
+{:toc}
+
+# Tutkallar
+## Epoksi tutkallar
+### 2 bileşenli epoksi tutkal
+_İran yapıştırıcısı_ veya _metal yapıştırıcısı_ olarak ta bilinebiliyor. Farklı markaların şeffaf veya renkli ürünleri var. Reçine ve hızlandırıcı amaçlı 2 farklı ürün aynı miktarda karıştırılıp kullanılıyor. Tamamen  kürleşmesi 24 saati buluyor. Farklı amaçlarla kullanılabilir. Isıya dayanıklıdır. Zımpara ve delme işlemleri yapılabilir. Tencerenin kırılan porselen sapını yapıştırdım, yıllardır sağlam. Brita sürahinin çatlayan üst kısımlarını yapıştırdım, o da beklemediğim kadar sağlam oldu. Klozet rezervuar parçaları gibi su içinde kalan işlemlerde de sorunsuz kullandım. Tamamen kürleştikten sonra esnemesi sıfıra yakın, özellikle şeffaf olanları cam gibi oluyor. Hareketli parçaların yapıştırılmasında sıkıntı olabilir.
+![2 bileşenli epoksi tutkal](../images/2024.09.30-epoksi2bilesen.png)
+
+### UV ışıkla sertleşen epoksi tutkal
+Morötesi (UV) ışıkla kürleşiyor. Hızlandırıcı gerekmediği için, tek bileşenli. UV ışık ile 1-2 dakika içinde tamamen kürleşebiliyor. Genelde şeffaf oluyor. Üstteki kadar güçlü değil gibi geldi bana. Ama çok yük taşımayacak yerlerde tercih edilebilir. En önemli avantajı; çalışma süresi uzun ve istendiğinde hızlı bir şekilde kürleşebiliyor olması. Genellikle takı işlerinde tercih ediliyor sanırım. Uzun süreli bri yapıştırıcının kürleşmesini beklerken, geçici olarak idare etmesi için bunu kullandığım oldu.  
+![Epoksi UV tutkal](../images/2024.09.30-epoksi_uv.png)
+
+### Epoksi macun
+İki bileşenli ve adından anlaşılacağı gibi macun kıvamında oluyor. İkisinden de aynı miktarda alıp karıştırıp kullanılıyor. Dolgu ağırlıklı kullanım alanı var. Bir parçanın delinen veya kopan kısmının yerine bunu kullanabilirsiniz mesela. Kuruduktan sonra taş gibi sert oluyor. Klozet rezervuarı içindeki şamandıranın kırılan plastik kısımlarını birkaç kere bununla tamir ettim. Aynı yerden bir daha arıza olmadı. Köyde eternit çatı malzemesinin deliklerini de tıkadım bununla. Eğer havasız ortamda muhafaza edebilirseniz, yıllarca kullanabilirsiniz. Ben şimdiye kadar 2 kere aldım bu macundan, plastik tüp içinde satılanlardan. 10 yıl boyunca azar azar böyle işlerimde kullandım. Farklı markaları da var. Macunlar görseldeki gibi sarılı olarak veya tamamen 2 ayrı parça olarak satılan türler de var.  
+![Epoksi macun](../images/2024.09.30-epoksi_macun.png)
+
+## Kontakt yapıştırıcı (solventli)
+Yapıştırıcı/tutkal deyince eskilerin ilk aklına gelenlerden birisi bu yapıştırıcılar. Isıya dayanıklı olduğunu zannatmiyorum ama bunun haricinde dış ortam koşullarına dayanıklı zannediyorum. Ayakkabı tamircileri hep bunu kullandığı için böyle düşündüm :)
+Kullanımı biraz garip. İki bileşene sürdükten sonra 15-20 dakika bekliyoruz, sonra presleme veya tokmaklama ile sıkıştırıyoruz. 1-2 saat sonra tamamen kullanılabilir oluyor. Şeffaf değil, görünür yerlerde dikkatli kullanılmalı. Deri, kağıt, kumaş, tahta gibi bilimum yapıştırma işlerinde kullanılabilir.  
+![Kontakt tutkal](../images/2024.09.30-kontakt_tutkal.png)
+
+## Japon yapıştırıcısı (super glue)
+Teknik ismi siyanoakrilat (cyanoacrylate) olan bu yapıştırıcı, ele göze gelirse, deriyi sökerek ayrılabiliyor. Yoğunluğu (viskozite) düşük olduğu için (neredeyse su gibi) çatlaklara güzel nüfuz etme özelliği var. İstenirse hızlandırıcı sprey ile de kullanılabilir. Kuruduktan sonra sertleşir. Ancak damlacık şeklinde durduğu sürece kürleşmiyor. Bu nedenle az kullanmak lazım. Çok yük taşımayacak olan oyuncak parçaları gibi yapıştırma işlerinde kullanılabilir.
+Karbonat, sigara külü, kurşun kalem ucu grafit tozu gibi malzemelerle harmanlayıp hem dolgu hem de yapıştırma anlamında çok güzel işler yapanlar var; Youtube'da bulabilirsiniz.
+![Japon yapıştırıcı](../images/2024.09.30-japon.png)
+
+##  İki bileşenli hızlı yapıştırıcı
+(MDF Kit diyenler de var).  
+Yukarıdakinin biraz daha koyu kıvamlı (yoğun viskoziteli) olanı. Yanında hızlandırıcı ile geliyor. Hızlandırıcı reaksiyonunda ısı veriyor. Kimyasal yanıklara dikkat. 
+
+## PVA slime
+xxx
+
+## Silikon tutkallar
+- Sıcak silikon
+- Banyo silikonu (tüp veya tabanca tipi)
+- mastik?
+- Soğuk kırtasiye silikonu
+
+## Diğer tutkallar
+Mum tutkal, Uhu gibi olanlar, tack-it tarzındakiler, vb.
+
+## Ahşap tutkalları
+xxx
+
+# Bantlar
+xxx
+
+## Duck tape
+xxx
+
+## Bez bant
+xxx
+
+## Çamur bant
+xxx
+
+## Gerdir-sar bant
+xxx
+
+## İzole bant (elektrik bandı)
+
+## Diğer
+Koli bantı, para bandı, çift taraflı bant, vb.
+
+# Diğer malzemeler
+xxx
+
+## Plastik birleştirme kaynak telleri
+xxx
+
+## Düşük sıcaklık kaynak malzemesi
+xxx
+
+##
+Lehim
+xxx
+
+## "Unutulmasın" Listesi
+- Kimyasal dübel
+- İzole bant
+- Silikon/Mastik
+- Epoksi macun ve tutkal
+- Tamir bandı
+- Çamur bant
+- Bakır bant
+- Soba bandı
+- Bez bant
+- Makaron
+- Plastik sıcak zımba kaynağı
+- Japon. Cıvık ve jel olan
+- Pva
+- Silikon tutkal
+- Ahşap tutkalı. D1,2,3 marin, iskelet
+- PU köpük
+- Maskeleme bandı
+- Çift taraflı bantlar
+- Duvara bir şey takma yapıştırıcıları
+- Kontak yapıştırıcı
+- Sıcak silikon
+- Uhu
+- Stick yapıştırıcı
+- Koli bandı
+- Teflon bant
+- Pencere soğuk koruma bandı
+- Sıvı conta
+- E-6000 ve kardeşleri
