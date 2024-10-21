@@ -34,12 +34,13 @@ Kullanımı biraz garip. İki bileşene sürdükten sonra 15-20 dakika bekliyoru
 
 ## Japon yapıştırıcısı (super glue)
 Teknik ismi siyanoakrilat (cyanoacrylate) olan bu yapıştırıcı, ele göze gelirse, deriyi sökerek ayrılabiliyor. Yoğunluğu (viskozite) düşük olduğu için (neredeyse su gibi) çatlaklara güzel nüfuz etme özelliği var. İstenirse hızlandırıcı sprey ile de kullanılabilir. Kuruduktan sonra sertleşir. Ancak damlacık şeklinde durduğu sürece kürleşmiyor. Bu nedenle az kullanmak lazım. Çok yük taşımayacak olan oyuncak parçaları gibi yapıştırma işlerinde kullanılabilir.
-Karbonat, sigara külü, kurşun kalem ucu grafit tozu gibi malzemelerle harmanlayıp hem dolgu hem de yapıştırma anlamında çok güzel işler yapanlar var; Youtube'da bulabilirsiniz.
+Karbonat, sigara külü, kurşun kalem ucu grafit tozu gibi malzemelerle harmanlayıp hem dolgu hem de yapıştırma anlamında çok güzel işler yapanlar var; Youtube'da bulabilirsiniz.  
 ![Japon yapıştırıcı](../images/2024.09.30-japon.png)
 
 ##  İki bileşenli hızlı yapıştırıcı
 (MDF Kit diyenler de var).  
-Yukarıdakinin biraz daha koyu kıvamlı (yoğun viskoziteli) olanı. Yanında hızlandırıcı ile geliyor. Hızlandırıcı reaksiyonunda ısı veriyor. Kimyasal yanıklara dikkat. 
+Yukarıdakinin biraz daha koyu kıvamlı (yoğun viskoziteli) olanı. Yanında hızlandırıcı ile geliyor. Hızlandırıcı reaksiyonunda ısı veriyor. Kimyasal yanıklara dikkat.  
+![](2024.09.30-iki_bilesenli_hizli.png)
 
 ## PVA slime
 xxx
