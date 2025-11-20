@@ -106,7 +106,25 @@ plugins:
  - jekyll-seo-tag
  - jekyll-sitemap
  - jekyll-archives
-  
+
+# === SITEMAP’İ TEMİZLEMEK İÇİN ZORUNLU KOD (Chirpy için) ===
+jekyll-sitemap:
+  # Bu ayar ile sitemap sadece "posts" ve özel olarak izin verdiğimiz sayfaları alır
+  include:
+    - "/"
+    - "/about/"
+    - "/posts/*"
+  exclude:
+    - "/assets/"
+    - "/categories/"
+    - "/tags/"
+    - "/archives/"
+    - "/page*"
+    - "/feed.xml"
+    - "/sitemap.xml"
+    - "/*.xml"
+    - "/*.json"
+
 kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:   # Rouge Options › https://github.com/jneen/rouge#full-options
