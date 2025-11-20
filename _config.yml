@@ -103,12 +103,12 @@ paginate: 10
 
 plugins:
   - jekyll-seo-tag
-#  - jekyll-sitemap
-  - jekyll-archives
+  - jekyll-sitemap
+#  - jekyll-archives
 
 # Chirpy’nin kendi sitemap üretimini kapat (EN KRİTİK SATIR!)
-# theme_config:
-#  sitemap: false # ←←← BU SATIR HER ŞEYİ ÇÖZÜYOR
+theme_config:
+  sitemap: false # ←←← BU SATIR HER ŞEYİ ÇÖZÜYOR
 
 jekyll-archives:
   enabled:
