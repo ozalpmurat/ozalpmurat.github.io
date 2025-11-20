@@ -107,23 +107,19 @@ plugins:
  - jekyll-sitemap
  - jekyll-archives
 
-# === SITEMAP’İ TEMİZLEMEK İÇİN ZORUNLU KOD (Chirpy için) ===
-jekyll-sitemap:
-  # Bu ayar ile sitemap sadece "posts" ve özel olarak izin verdiğimiz sayfaları alır
-  include:
-    - "/"
-    - "/about/"
-    - "/posts/*"
-  exclude:
-    - "/assets/"
-    - "/categories/"
-    - "/tags/"
-    - "/archives/"
-    - "/page*"
-    - "/feed.xml"
-    - "/sitemap.xml"
-    - "/*.xml"
-    - "/*.json"
+# Chirpy’de sitemap’ten categories/tags/page2 vs. çıkması için kesin çözüm
+defaults:
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      sitemap: false   # Tüm sayfaları sitemap’ten çıkar
+  -
+    scope:
+      path: "about.md"
+    values:
+      sitemap: true    # Sadece about’u ekle (isteğe bağlı)
 
 kramdown:
   syntax_highlighter: rouge
