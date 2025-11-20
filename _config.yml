@@ -195,9 +195,14 @@ jekyll-archives:
   layouts:
     category: category
     tag: tag
+    category-archives: category-archives   # ← ekle
+    tag-archives: tag-archives             # ← ekle
+  layout: archives                               # ← ekle (ana liste sayfası için)
   permalinks:
-    tag: /tags/:name/
     category: /categories/:name/
+    tag: /tags/:name/
+    category-archives: /categories/      # ← ana kategoriler sayfası
+    tag-archives: /tags/                 # ← ana etiketler sayfası
 
 # jekyll-archives:
 #   enabled: all
