@@ -111,19 +111,19 @@ plugins:
 theme_config:
   sitemap: false   # ←←← BU SATIR HER ŞEYİ ÇÖZÜYOR
   
-# Chirpy’de sitemap’ten categories/tags/page2 vs. çıkması için kesin çözüm
-defaults:
-  -
-    scope:
-      path: ""
-      type: pages
-    values:
-      sitemap: false   # Tüm sayfaları sitemap’ten çıkar
-  -
-    scope:
-      path: "about.md"
-    values:
-      sitemap: true    # Sadece about’u ekle (isteğe bağlı)
+# jekyll-sitemap’in temiz çalışması için
+jekyll-sitemap:
+  include:
+    - "/"
+    - "/about/"
+    - "/posts/*"
+  exclude:
+    - "/assets/"
+    - "/categories/"
+    - "/tags/"
+    - "/archives/"
+    - "/page*"
+    - "/*.xml"
 
 kramdown:
   syntax_highlighter: rouge
