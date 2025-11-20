@@ -163,7 +163,7 @@ defaults:
       layout: post
       comments: true
       toc: true
-      permalink: "/posts/:year/:month/:day/:title:output_ext"
+      permalink: /posts/:title/   # ← eski :year/:month/:day olanı sil, bunu yaz
   -
     scope:
       path: "_drafts"
@@ -199,15 +199,15 @@ exclude:
   - package*.json
 
 jekyll-archives:
-  enabled: all
-  layout: archive
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: category
+    tag: tag
   permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    day: '/:year/:month/:day/'
-    tag: '/tag/:name/'
-    category: '/category/:name/'
-
+    category: /categories/:name/
+    tag: /tags/:name/
 
 # jekyll-sitemap’in temiz çalışması için
 
