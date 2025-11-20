@@ -28,7 +28,7 @@ Morötesi (UV) ışıkla kürleşiyor. Hızlandırıcı gerekmediği için, tek 
 ![Epoksi macun](../images/2024.09.30-epoksi_macun.png)
 
 ## Kontakt yapıştırıcı (solventli)
-Yapıştırıcı/tutkal deyince eskilerin ilk aklına gelenlerden birisi bu yapıştırıcılar. Isıya dayanıklı olduğunu zannatmiyorum ama bunun haricinde dış ortam koşullarına dayanıklı zannediyorum. Ayakkabı tamircileri hep bunu kullandığı için böyle düşündüm :)
+Yapıştırıcı/tutkal deyince eskilerin ilk aklına gelenlerden birisi bu yapıştırıcılar. Isıya dayanıklı olduğunu zannetmiyorum ama bunun haricinde dış ortam koşullarına dayanıklı zannediyorum. Ayakkabı tamircileri hep bunu kullandığı için böyle düşündüm :)
 Kullanımı biraz garip. İki bileşene sürdükten sonra 15-20 dakika bekliyoruz, sonra presleme veya tokmaklama ile sıkıştırıyoruz. 1-2 saat sonra tamamen kullanılabilir oluyor. Şeffaf değil, görünür yerlerde dikkatli kullanılmalı. Deri, kağıt, kumaş, tahta gibi bilimum yapıştırma işlerinde kullanılabilir.  
 ![Kontakt tutkal](../images/2024.09.30-kontakt_tutkal.png)
 
