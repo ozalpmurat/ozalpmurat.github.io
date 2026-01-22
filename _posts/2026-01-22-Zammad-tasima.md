@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Docker'dan Paket Kurulumuna Geçişte Karşılaşılan Engeller ve Çözüm Yolları
+title: Zammad Taşıma Günlüğü
 tags: Genel
 categories: [Genel]
 
