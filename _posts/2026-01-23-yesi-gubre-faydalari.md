@@ -56,11 +56,13 @@ Kavramlar biraz çeşitli ve karışık olduğu için önce kısa sözlük, sonr
 - Bazı yeşil gübre bitkileri, herbisit gibi kimyasallarla kirlenmiş toprakların iyileştirilmesinde (fitoremediasyon) kullanılabilir.
 - Toprakta karbon tutulumu (karbon sekestrasyonu) sağlayarak sera gazı salımlarını azaltır ve tarımsal sistemlerin iklim değişikliğine uyum kapasitesini artırır.
 
-# Hangi bitki, hangi etkiyi sağlar?
-Aşağıdaki matrisi ChatGPT'den aldım doğrudan. Gebel olarak baktım tutarlı gibi ama ufak tefek hatalar olabilir. Fikir vermesi için ekliyorum. Ben 2025 sonbaharında fidanlığa şöyle bir karışım ektim: Tiritkale, macar fiğ, buğday, yem bezelyesi, korunga, yem şalgamı. İlk dördünü hazır dörtlü karışım olarak aldım. Diğerlerini de kendim ekledim. Yaşadığım yerde çok seçenek olmadığı için İnternet'ten bulabildiklerimi değerlendirdim.
+# Hangi bitki?
+Aşağıdaki matrisi (_Etki–Bitki Matrisi_) ChatGPT'den aldım doğrudan. Genel olarak baktım, tutarlı gibi ama ufak tefek hatalar olabilir. Fikir vermesi için ekledim buraya.
+
+Ben 2025 sonbaharında fidanlığa şöyle bir karışım ektim: Tiritkale, macar fiğ, buğday, yem bezelyesi, korunga, yem şalgamı. İlk dördünü hazır dörtlü karışım olarak aldım. Diğerlerini de kendim ekledim. Yaşadığım yerde çok seçenek olmadığı için İnternet'ten bulabildiklerimi değerlendirdim. Soğuk bir yerde yaşadığım için, "adi fiğ" yerine "macar fiğ" ektim. Bunun gibi, dikkat etmeniz gereken diğer konuları da hemen aşağıda yazdım. Kışa girerkenki görüntüsü için şuraya bakabilirsiniz: https://www.youtube.com/watch?v=KE9meus_8kA
 
 ## Tohum alırken neye dikkat etmeliyiz?
-> **Önce mutlaka toprak analizi** yaptırın. Analiz sonucunda toprağın yapısı (killi, tınlı, vb.) azot-fosfor-potasyum gibi temel elementlerin durumu, organik madde miktarı, asitlik derecesi, kireçlilik oranı, tuzluluk oranı gibi güzel bilgiler elde edeceksiniz. Bunu yapay zekaya verip, "buna göre yeşil gübre öner" diyerek çok güzel tavsiyeler alabilirsiniz.
+> Zorunlu değil tabii ki ama önce **toprak analizi** yaptırmanızı şiddetle tavsiye ederim. Analiz sonucunda toprağın yapısı (killi, tınlı, vb.) azot-fosfor-potasyum gibi temel elementlerin durumu, organik madde miktarı, asitlik derecesi, kireçlilik oranı, tuzluluk oranı gibi güzel bilgiler elde edeceksiniz. Bunu yapay zekaya verip, "buna göre yeşil gübre öner" diyerek çok güzel tavsiyeler alabilirsiniz.
 
 1. **Bitkinin yaşam süresi (tek yıllık – çok yıllık):** Alanın ne kadar süreyle yeşil gübreye ayrılabileceğine ve ekim nöbetine uygunluk dikkate alınmalıdır.
 1. **Asıl üretim sistemi ve ana ürün:** Meyve, sebze, tahıl veya bağ–bahçe üretimine göre örtü süresi, kök yapısı ve rekabet durumu değerlendirilmelidir.
