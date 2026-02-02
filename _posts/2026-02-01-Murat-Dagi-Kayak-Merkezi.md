@@ -7,7 +7,7 @@ tags: kayak spor
 toc: true
 ---
 
-> Not: Bu ikinci kayak deneyimimz. İlkini okumak isterseniz, buraya tıklayabilirsiniz: https://ozalpmurat.github.io/posts/ilk-kayak-tecr%C3%BCbesi-Sislivadi/
+> Not: Bu ikinci kayak deneyimimz. İlkini okumak isterseniz, buraya tıklayabilirsiniz: [İlk Kayak Tecrübesi (Sisli Vadi)](https://ozalpmurat.github.io/posts/ilk-kayak-tecr%C3%BCbesi-Sislivadi/)
 
 Murat Dağı Kayak Merkezi, özellikle ilk kez kayak ya da snowboard deneyecekler için temel ihtiyaçları karşılayan, küçük ama işlevsel bir tesis izlenimi veriyor. Tesisin ücretlendirmesi, pist durumu ve yol koşulları gibi önemli detayları bizzat yaşayarak not aldık.
 
