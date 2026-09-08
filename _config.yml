@@ -3,37 +3,33 @@
 # Import the theme
 theme: jekyll-theme-chirpy
 
-# Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
-# and doesn't have a custom domain.
-baseurl: ""
-
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
 lang: tr
 
-# Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
+# Change to your timezone › https://zones.arilyn.cc
 timezone: Europe/Istanbul
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Murat Özalp
+title: Murat Özalp # the main title
 
-# it will display as the sub-title
-tagline: Kişisel Web Sitesi
+tagline: Kişisel Web Sitesi # it will display as the subtitle
 
-# used by seo meta and the atom feed
-description: Web'te aratılınca bulunmasını istediğim şeyler
+description: >- # used by seo meta and the atom feed
+  Web'te aratılınca bulunmasını istediğim şeyler
 
-# fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
+# Fill in the protocol & hostname for your site.
+# E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://ozalpmurat.github.io"
 
 github:
-  username: ozalpmurat # change to your github username
+  username: ozalpmurat # change to your GitHub username
 
 #twitter:
-#  username: twitter_username            # change to your twitter username
+#  username: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -42,24 +38,32 @@ social:
   email: cunyor@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/muratozalp_ # change to your twitter homepage
-    - https://github.com/ozalpmurat # change to your github homepage
+    - https://twitter.com/muratozalp_ # change to your Twitter homepage
+    - https://github.com/ozalpmurat # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
-#google_site_verification: google_meta_tag_verification # change to your verification string
-#google_site_verification: COUjxpo9NCC0m0Ueal6IL4OGeTOD2AYeBhyRncAN
-google_site_verification: COUjxpo9NCC0m0Ueal6IL4OGeTOD2AYeBhyRncAN-cc
-# ↑ --------------------------
+# Site Verification Settings
+webmaster_verifications:
+  google: COUjxpo9NCC0m0Ueal6IL4OGeTOD2AYeBhyRncAN-cc # fill in your Google verification code
+  bing: # fill in your Bing verification code
+  alexa: # fill in your Alexa verification code
+  yandex: # fill in your Yandex verification code
+  baidu: # fill in your Baidu verification code
+  facebook: # fill in your Facebook verification code
 
-google_analytics:
-  #  id: 'G-F2ZGFBLC4Q'              # fill in your Google Analytics ID
-  id: "G-Z2CT6F589V" # fill in your Google Analytics ID
-  # Google Analytics pageviews report settings
-  pv:
-    proxy_endpoint: # fill in the Google Analytics superProxy endpoint of Google App Engine
-    cache_path: # the local PV cache data, friendly to visitors from GFW region
+# ↑ --------------------------
+# The end of `jekyll-seo-tag` settings
+
+# Web Analytics Settings
+analytics:
+  google:
+    id: "G-Z2CT6F589V" # fill in your Google Analytics ID
+
+# Page views settings
+pageviews:
+  provider: # now only supports 'goatcounter'
 
 # Prefer color scheme setting.
 #
@@ -69,69 +73,50 @@ google_analytics:
 #
 # Available options:
 #
-#     light  - Use the light color scheme
-#     dark   - Use the dark color scheme
+#     light — Use the light color scheme
+#     dark — Use the dark color scheme
 #
-theme_mode: # [light|dark]
+theme_mode: # [light | dark]
 
-# The CDN endpoint for images.
+# The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
-# will be added to all image (site avatar & posts' images) paths starting with '/'
+# will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+cdn:
 
 # the avatar on sidebar, support local or CORS resources
 avatar: /images/avatar.jpg
 
-# boolean type, the global switch for ToC in posts.
+# boolean type, the global switch for TOC in posts.
 toc: true
 
 # comments:
-#   active: disqus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
-#   # The active options are as follows:
+#   provider: disqus # [disqus | utterances | giscus], keeping it empty means disabled.
 #   disqus:
 #     shortname: ozalpmurat # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
-#   # utterances settings › https://utteranc.es/
-#   utterances:
-#     repo: # <gh-username>/<repo>
-#     issue_term: # < url | pathname | title | ...>
 
 paginate: 10
 
+# The base URL of your site
+baseurl: ""
+
+# The plugins loaded by the site (also provided as runtime deps of the theme)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-archives
+  - jekyll-include-cache
+
+# Sitemap: Kök `sitemap.xml` (yalnızca gönderiler + hakkında) manuel dosyayla üretilir.
+# jekyll-sitemap plugin'i, sitemap.xml zaten varsa kendi sitemap'ini üretmez
+# (yalnızca yoksa robots.txt ekler) — o yüzden burada exclude bloğuna gerek yok.
+
 # ------------ The following options are not recommended to be modified ------------------
 
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-archives
-
-# Chirpy’nin kendi sitemap üretimini kapat (EN KRİTİK SATIR!)
-theme_config:
-  sitemap: false # ←←← BU SATIR HER ŞEYİ ÇÖZÜYOR
-
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layouts:
-    category: category
-    tag: tag
-  permalinks:
-    category: /categories/:name/
-    tag: /tags/:name/
-
-# jekyll-sitemap’in temiz çalışması için
-jekyll-sitemap:
-  exclude:
-    - "/assets/"
-    - "/categories/"
-    - "/tags/"
-    - "/archives/"
-    - "/about/"
-    - "/page*"
-
 kramdown:
+  footnote_backlink: "&#8617;&#xfe0e;"
   syntax_highlighter: rouge
   syntax_highlighter_opts: # Rouge Options › https://github.com/jneen/rouge#full-options
     css_class: highlight
@@ -148,27 +133,27 @@ collections:
     sort_by: order
 
 defaults:
-  -
-    scope:
-      path: ""
+  - scope:
+      path: "" # An empty string here means all files in the project
       type: posts
     values:
       layout: post
-      comments: true
-      toc: true
-      permalink: /posts/:title/   # ← eski :year/:month/:day olanı sil, bunu yaz
-  -
-    scope:
-      path: "_drafts"
+      comments: true # Enable comments in posts.
+      toc: true # Display TOC column in posts.
+      permalink: /posts/:title/
+  - scope:
+      path: _drafts
     values:
       comments: false
-  -
-    scope:
+  - scope:
       path: ""
-      type: tabs
+      type: tabs # see `site.collections`
     values:
       layout: page
-      permalink: "/:title/"
+      permalink: /:title/
+
+sass:
+  style: compressed
 
 compress_html:
   clippings: all
@@ -182,6 +167,8 @@ compress_html:
 exclude:
   - "*.gem"
   - "*.gemspec"
+  - CLAUDE.md
+  - bin
   - tools
   - vendor
   - docs
@@ -190,3 +177,14 @@ exclude:
   - gulpfile.js
   - node_modules
   - package*.json
+
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/

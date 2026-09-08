@@ -56,10 +56,13 @@ build() {
 }
 
 test() {
+  # html-proofer v5 flags. `--check-html` and `--allow_hash_href` from v3 are
+  # gone in v5; allow-hash-href is enabled by default there.
+  # `--no-enforce-https`: external linkler kontrol edilmediği için içerikteki
+  # `http://` dış bağlantılar build'i düşürmesin.
   bundle exec htmlproofer \
     --disable-external \
-    --check-html \
-    --allow_hash_href \
+    --no-enforce-https \
     "$SITE_DIR"
 }
 
